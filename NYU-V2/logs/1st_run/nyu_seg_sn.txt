@@ -1,0 +1,1693 @@
+baseline: Epoch [0], Iter [10/20000] Loss: 4.3762, average_loss: 9.3010
+baseline: Epoch [0], Iter [20/20000] Loss: 4.1895, average_loss: 6.8861
+baseline: Epoch [0], Iter [30/20000] Loss: 4.0823, average_loss: 6.0971
+baseline: Epoch [0], Iter [40/20000] Loss: 4.2761, average_loss: 5.6268
+baseline: Epoch [0], Iter [50/20000] Loss: 4.0340, average_loss: 5.3629
+baseline: TEST LOSS on 0th epoch: 4.211752337417836
+baseline: Epoch [1], Iter [60/20000] Loss: 4.3171, average_loss: 4.3040
+baseline: Epoch [1], Iter [70/20000] Loss: 4.1413, average_loss: 4.2887
+baseline: Epoch [1], Iter [80/20000] Loss: 4.3165, average_loss: 4.2095
+baseline: Epoch [1], Iter [90/20000] Loss: 4.0451, average_loss: 4.1946
+baseline: Epoch [1], Iter [100/20000] Loss: 4.1192, average_loss: 4.1621
+baseline: TEST LOSS on 1th epoch: 4.190242414080768
+baseline: Epoch [2], Iter [110/20000] Loss: 4.0593, average_loss: 4.1361
+baseline: Epoch [2], Iter [120/20000] Loss: 4.0103, average_loss: 4.0623
+baseline: Epoch [2], Iter [130/20000] Loss: 3.9204, average_loss: 4.0753
+baseline: Epoch [2], Iter [140/20000] Loss: 4.5183, average_loss: 4.0544
+baseline: Epoch [2], Iter [150/20000] Loss: 3.8040, average_loss: 4.0432
+baseline: TEST LOSS on 2th epoch: 3.997151823947918
+baseline: Epoch [3], Iter [160/20000] Loss: 3.9327, average_loss: 3.9640
+baseline: Epoch [3], Iter [170/20000] Loss: 4.0732, average_loss: 4.0636
+baseline: Epoch [3], Iter [180/20000] Loss: 3.7683, average_loss: 4.0655
+baseline: Epoch [3], Iter [190/20000] Loss: 3.8328, average_loss: 4.0716
+baseline: Epoch [3], Iter [200/20000] Loss: 4.1963, average_loss: 4.0527
+baseline: TEST LOSS on 3th epoch: 3.9739508501251173
+baseline: Epoch [4], Iter [210/20000] Loss: 4.1494, average_loss: 4.1060
+baseline: Epoch [4], Iter [220/20000] Loss: 4.0642, average_loss: 4.0154
+baseline: Epoch [4], Iter [230/20000] Loss: 3.7833, average_loss: 3.9941
+baseline: Epoch [4], Iter [240/20000] Loss: 3.9059, average_loss: 3.9503
+baseline: Epoch [4], Iter [250/20000] Loss: 4.1851, average_loss: 3.9626
+baseline: TEST LOSS on 4th epoch: 3.94489730607479
+baseline: Epoch [5], Iter [260/20000] Loss: 3.6987, average_loss: 3.9356
+baseline: Epoch [5], Iter [270/20000] Loss: 4.0303, average_loss: 3.9219
+baseline: Epoch [5], Iter [280/20000] Loss: 4.0681, average_loss: 3.9383
+baseline: Epoch [5], Iter [290/20000] Loss: 3.8346, average_loss: 3.9383
+baseline: Epoch [5], Iter [300/20000] Loss: 3.7285, average_loss: 3.9399
+baseline: TEST LOSS on 5th epoch: 3.9306941666734327
+baseline: Epoch [6], Iter [310/20000] Loss: 3.4629, average_loss: 3.8733
+baseline: Epoch [6], Iter [320/20000] Loss: 3.7953, average_loss: 3.9057
+baseline: Epoch [6], Iter [330/20000] Loss: 3.9108, average_loss: 3.9073
+baseline: Epoch [6], Iter [340/20000] Loss: 3.9655, average_loss: 3.9147
+baseline: Epoch [6], Iter [350/20000] Loss: 3.6997, average_loss: 3.8997
+baseline: TEST LOSS on 6th epoch: 3.8969673483379026
+baseline: Epoch [7], Iter [360/20000] Loss: 4.0980, average_loss: 3.9681
+baseline: Epoch [7], Iter [370/20000] Loss: 3.7339, average_loss: 3.9592
+baseline: Epoch [7], Iter [380/20000] Loss: 3.7848, average_loss: 3.9253
+baseline: Epoch [7], Iter [390/20000] Loss: 4.2430, average_loss: 3.9319
+baseline: Epoch [7], Iter [400/20000] Loss: 3.8855, average_loss: 3.9084
+baseline: TEST LOSS on 7th epoch: 3.911149651267842
+baseline: Epoch [8], Iter [410/20000] Loss: 4.3265, average_loss: 4.0228
+baseline: Epoch [8], Iter [420/20000] Loss: 3.5727, average_loss: 3.9549
+baseline: Epoch [8], Iter [430/20000] Loss: 4.0229, average_loss: 3.8723
+baseline: Epoch [8], Iter [440/20000] Loss: 3.7931, average_loss: 3.8776
+baseline: Epoch [8], Iter [450/20000] Loss: 3.9507, average_loss: 3.8815
+baseline: TEST LOSS on 8th epoch: 3.97859267977035
+baseline: Epoch [9], Iter [460/20000] Loss: 3.5183, average_loss: 3.8717
+baseline: Epoch [9], Iter [470/20000] Loss: 4.0818, average_loss: 3.9114
+baseline: Epoch [9], Iter [480/20000] Loss: 3.9020, average_loss: 3.8795
+baseline: Epoch [9], Iter [490/20000] Loss: 3.8571, average_loss: 3.8708
+baseline: Epoch [9], Iter [500/20000] Loss: 3.8808, average_loss: 3.8578
+baseline: TEST LOSS on 9th epoch: 3.8718933235250117
+baseline: Epoch [10], Iter [510/20000] Loss: 3.9600, average_loss: 3.8866
+baseline: Epoch [10], Iter [520/20000] Loss: 3.7046, average_loss: 3.9112
+baseline: Epoch [10], Iter [530/20000] Loss: 4.0155, average_loss: 3.9148
+baseline: Epoch [10], Iter [540/20000] Loss: 3.6822, average_loss: 3.8666
+baseline: Epoch [10], Iter [550/20000] Loss: 3.7173, average_loss: 3.8531
+baseline: TEST LOSS on 10th epoch: 3.8466570198718197
+baseline: Epoch [11], Iter [560/20000] Loss: 4.0503, average_loss: 3.7880
+baseline: Epoch [11], Iter [570/20000] Loss: 3.8426, average_loss: 3.8312
+baseline: Epoch [11], Iter [580/20000] Loss: 3.5487, average_loss: 3.8358
+baseline: Epoch [11], Iter [590/20000] Loss: 4.2669, average_loss: 3.8267
+baseline: Epoch [11], Iter [600/20000] Loss: 3.4207, average_loss: 3.8075
+baseline: TEST LOSS on 11th epoch: 3.89533395030812
+baseline: Epoch [12], Iter [610/20000] Loss: 3.6655, average_loss: 3.6602
+baseline: Epoch [12], Iter [620/20000] Loss: 3.9977, average_loss: 3.7366
+baseline: Epoch [12], Iter [630/20000] Loss: 3.7808, average_loss: 3.7660
+baseline: Epoch [12], Iter [640/20000] Loss: 3.9060, average_loss: 3.7567
+baseline: Epoch [12], Iter [650/20000] Loss: 4.0445, average_loss: 3.7703
+baseline: TEST LOSS on 12th epoch: 3.848876494515562
+baseline: Epoch [13], Iter [660/20000] Loss: 3.6505, average_loss: 3.7646
+baseline: Epoch [13], Iter [670/20000] Loss: 3.8329, average_loss: 3.7747
+baseline: Epoch [13], Iter [680/20000] Loss: 4.3022, average_loss: 3.7767
+baseline: Epoch [13], Iter [690/20000] Loss: 3.8918, average_loss: 3.7804
+baseline: Epoch [13], Iter [700/20000] Loss: 3.8503, average_loss: 3.7863
+baseline: TEST LOSS on 13th epoch: 3.934658849640359
+baseline: Epoch [14], Iter [710/20000] Loss: 3.9787, average_loss: 3.7613
+baseline: Epoch [14], Iter [720/20000] Loss: 3.3663, average_loss: 3.7383
+baseline: Epoch [14], Iter [730/20000] Loss: 3.9646, average_loss: 3.7945
+baseline: Epoch [14], Iter [740/20000] Loss: 4.2909, average_loss: 3.7865
+baseline: Epoch [14], Iter [750/20000] Loss: 4.0762, average_loss: 3.7791
+baseline: TEST LOSS on 14th epoch: 3.9425309954797823
+baseline: Epoch [15], Iter [760/20000] Loss: 3.8851, average_loss: 3.6497
+baseline: Epoch [15], Iter [770/20000] Loss: 3.7522, average_loss: 3.7147
+baseline: Epoch [15], Iter [780/20000] Loss: 4.0045, average_loss: 3.7429
+baseline: Epoch [15], Iter [790/20000] Loss: 3.7339, average_loss: 3.7462
+baseline: Epoch [15], Iter [800/20000] Loss: 4.2040, average_loss: 3.7786
+baseline: TEST LOSS on 15th epoch: 3.904470497315083
+baseline: Epoch [16], Iter [810/20000] Loss: 3.6030, average_loss: 3.7313
+baseline: Epoch [16], Iter [820/20000] Loss: 4.0666, average_loss: 3.7705
+baseline: Epoch [16], Iter [830/20000] Loss: 3.4734, average_loss: 3.7621
+baseline: Epoch [16], Iter [840/20000] Loss: 3.9824, average_loss: 3.7424
+baseline: Epoch [16], Iter [850/20000] Loss: 3.7770, average_loss: 3.7352
+baseline: TEST LOSS on 16th epoch: 3.95523656216601
+baseline: Epoch [17], Iter [860/20000] Loss: 3.6404, average_loss: 3.6028
+baseline: Epoch [17], Iter [870/20000] Loss: 3.9335, average_loss: 3.6584
+baseline: Epoch [17], Iter [880/20000] Loss: 3.7999, average_loss: 3.6736
+baseline: Epoch [17], Iter [890/20000] Loss: 3.8809, average_loss: 3.7110
+baseline: Epoch [17], Iter [900/20000] Loss: 3.3272, average_loss: 3.7136
+baseline: TEST LOSS on 17th epoch: 3.7292599091106964
+baseline: Epoch [18], Iter [910/20000] Loss: 3.6745, average_loss: 3.5943
+baseline: Epoch [18], Iter [920/20000] Loss: 3.8932, average_loss: 3.6829
+baseline: Epoch [18], Iter [930/20000] Loss: 3.7668, average_loss: 3.6977
+baseline: Epoch [18], Iter [940/20000] Loss: 3.4164, average_loss: 3.6841
+baseline: Epoch [18], Iter [950/20000] Loss: 4.1954, average_loss: 3.6974
+baseline: TEST LOSS on 18th epoch: 3.814634235627061
+baseline: Epoch [19], Iter [960/20000] Loss: 3.7134, average_loss: 3.6700
+baseline: Epoch [19], Iter [970/20000] Loss: 3.6006, average_loss: 3.6554
+baseline: Epoch [19], Iter [980/20000] Loss: 3.4049, average_loss: 3.6542
+baseline: Epoch [19], Iter [990/20000] Loss: 3.9086, average_loss: 3.6956
+baseline: Epoch [19], Iter [1000/20000] Loss: 4.1947, average_loss: 3.7056
+baseline: TEST LOSS on 19th epoch: 3.934677885577584
+baseline: Epoch [20], Iter [1010/20000] Loss: 3.6786, average_loss: 3.6620
+baseline: Epoch [20], Iter [1020/20000] Loss: 3.9190, average_loss: 3.7031
+baseline: Epoch [20], Iter [1030/20000] Loss: 3.5517, average_loss: 3.6789
+baseline: Epoch [20], Iter [1040/20000] Loss: 3.3258, average_loss: 3.6812
+baseline: Epoch [20], Iter [1050/20000] Loss: 3.6827, average_loss: 3.6988
+baseline: TEST LOSS on 20th epoch: 3.8869713862007913
+baseline: Epoch [21], Iter [1060/20000] Loss: 3.8146, average_loss: 3.6213
+baseline: Epoch [21], Iter [1070/20000] Loss: 3.6541, average_loss: 3.6513
+baseline: Epoch [21], Iter [1080/20000] Loss: 3.6312, average_loss: 3.6824
+baseline: Epoch [21], Iter [1090/20000] Loss: 3.5523, average_loss: 3.6367
+baseline: Epoch [21], Iter [1100/20000] Loss: 3.8696, average_loss: 3.6424
+baseline: TEST LOSS on 21th epoch: 3.8582073008977673
+baseline: Epoch [22], Iter [1110/20000] Loss: 3.7136, average_loss: 3.7256
+baseline: Epoch [22], Iter [1120/20000] Loss: 3.6533, average_loss: 3.6705
+baseline: Epoch [22], Iter [1130/20000] Loss: 4.0083, average_loss: 3.6838
+baseline: Epoch [22], Iter [1140/20000] Loss: 3.9877, average_loss: 3.6721
+baseline: Epoch [22], Iter [1150/20000] Loss: 3.3409, average_loss: 3.6887
+baseline: TEST LOSS on 22th epoch: 3.84011115940339
+baseline: Epoch [23], Iter [1160/20000] Loss: 3.7271, average_loss: 3.6276
+baseline: Epoch [23], Iter [1170/20000] Loss: 3.5384, average_loss: 3.5797
+baseline: Epoch [23], Iter [1180/20000] Loss: 3.8745, average_loss: 3.6024
+baseline: Epoch [23], Iter [1190/20000] Loss: 3.4675, average_loss: 3.6009
+baseline: Epoch [23], Iter [1200/20000] Loss: 3.8686, average_loss: 3.6278
+baseline: TEST LOSS on 23th epoch: 3.7674281316430562
+baseline: Epoch [24], Iter [1210/20000] Loss: 3.6548, average_loss: 3.5786
+baseline: Epoch [24], Iter [1220/20000] Loss: 3.5682, average_loss: 3.5418
+baseline: Epoch [24], Iter [1230/20000] Loss: 3.4442, average_loss: 3.5411
+baseline: Epoch [24], Iter [1240/20000] Loss: 3.5460, average_loss: 3.5655
+baseline: Epoch [24], Iter [1250/20000] Loss: 3.8766, average_loss: 3.5861
+baseline: TEST LOSS on 24th epoch: 3.7721231275377654
+baseline: Epoch [25], Iter [1260/20000] Loss: 3.5440, average_loss: 3.5721
+baseline: Epoch [25], Iter [1270/20000] Loss: 4.0156, average_loss: 3.6211
+baseline: Epoch [25], Iter [1280/20000] Loss: 3.4753, average_loss: 3.6124
+baseline: Epoch [25], Iter [1290/20000] Loss: 3.0882, average_loss: 3.6317
+baseline: Epoch [25], Iter [1300/20000] Loss: 3.9957, average_loss: 3.6444
+baseline: TEST LOSS on 25th epoch: 3.7075210904491787
+baseline: Epoch [26], Iter [1310/20000] Loss: 3.7208, average_loss: 3.6199
+baseline: Epoch [26], Iter [1320/20000] Loss: 3.1566, average_loss: 3.5877
+baseline: Epoch [26], Iter [1330/20000] Loss: 3.6746, average_loss: 3.6060
+baseline: Epoch [26], Iter [1340/20000] Loss: 3.4603, average_loss: 3.6179
+baseline: Epoch [26], Iter [1350/20000] Loss: 3.5358, average_loss: 3.6182
+baseline: TEST LOSS on 26th epoch: 3.527334746235372
+baseline: Epoch [27], Iter [1360/20000] Loss: 3.5337, average_loss: 3.4175
+baseline: Epoch [27], Iter [1370/20000] Loss: 3.8513, average_loss: 3.5869
+baseline: Epoch [27], Iter [1380/20000] Loss: 4.0597, average_loss: 3.6091
+baseline: Epoch [27], Iter [1390/20000] Loss: 3.8486, average_loss: 3.5975
+baseline: Epoch [27], Iter [1400/20000] Loss: 4.0412, average_loss: 3.5792
+baseline: TEST LOSS on 27th epoch: 3.7104246208062595
+baseline: Epoch [28], Iter [1410/20000] Loss: 3.4817, average_loss: 3.5782
+baseline: Epoch [28], Iter [1420/20000] Loss: 3.6849, average_loss: 3.5782
+baseline: Epoch [28], Iter [1430/20000] Loss: 3.6108, average_loss: 3.5487
+baseline: Epoch [28], Iter [1440/20000] Loss: 3.6549, average_loss: 3.5675
+baseline: Epoch [28], Iter [1450/20000] Loss: 3.7163, average_loss: 3.5814
+baseline: TEST LOSS on 28th epoch: 3.757573591642059
+baseline: Epoch [29], Iter [1460/20000] Loss: 3.3381, average_loss: 3.4709
+baseline: Epoch [29], Iter [1470/20000] Loss: 3.5460, average_loss: 3.4757
+baseline: Epoch [29], Iter [1480/20000] Loss: 3.5226, average_loss: 3.5044
+baseline: Epoch [29], Iter [1490/20000] Loss: 3.5507, average_loss: 3.5487
+baseline: Epoch [29], Iter [1500/20000] Loss: 3.2261, average_loss: 3.5418
+baseline: TEST LOSS on 29th epoch: 3.6299756581265625
+baseline: Epoch [30], Iter [1510/20000] Loss: 3.4863, average_loss: 3.4665
+baseline: Epoch [30], Iter [1520/20000] Loss: 3.9080, average_loss: 3.4971
+baseline: Epoch [30], Iter [1530/20000] Loss: 3.5440, average_loss: 3.5235
+baseline: Epoch [30], Iter [1540/20000] Loss: 3.3641, average_loss: 3.5042
+baseline: Epoch [30], Iter [1550/20000] Loss: 3.9524, average_loss: 3.5237
+baseline: TEST LOSS on 30th epoch: 3.5819948878856973
+baseline: Epoch [31], Iter [1560/20000] Loss: 3.5050, average_loss: 3.4870
+baseline: Epoch [31], Iter [1570/20000] Loss: 3.7927, average_loss: 3.4792
+baseline: Epoch [31], Iter [1580/20000] Loss: 3.2355, average_loss: 3.4712
+baseline: Epoch [31], Iter [1590/20000] Loss: 3.6840, average_loss: 3.5245
+baseline: Epoch [31], Iter [1600/20000] Loss: 3.0283, average_loss: 3.5540
+baseline: TEST LOSS on 31th epoch: 3.6063299975628516
+baseline: Epoch [32], Iter [1610/20000] Loss: 3.8220, average_loss: 3.5378
+baseline: Epoch [32], Iter [1620/20000] Loss: 3.5337, average_loss: 3.5256
+baseline: Epoch [32], Iter [1630/20000] Loss: 3.7489, average_loss: 3.5262
+baseline: Epoch [32], Iter [1640/20000] Loss: 3.4065, average_loss: 3.5161
+baseline: Epoch [32], Iter [1650/20000] Loss: 4.6855, average_loss: 3.5281
+baseline: TEST LOSS on 32th epoch: 3.770505080347032
+baseline: Epoch [33], Iter [1660/20000] Loss: 3.8368, average_loss: 3.5797
+baseline: Epoch [33], Iter [1670/20000] Loss: 3.5394, average_loss: 3.5097
+baseline: Epoch [33], Iter [1680/20000] Loss: 3.7570, average_loss: 3.5415
+baseline: Epoch [33], Iter [1690/20000] Loss: 2.7525, average_loss: 3.4982
+baseline: Epoch [33], Iter [1700/20000] Loss: 3.1930, average_loss: 3.4915
+baseline: TEST LOSS on 33th epoch: 3.6145678966417227
+baseline: Epoch [34], Iter [1710/20000] Loss: 3.2552, average_loss: 3.2167
+baseline: Epoch [34], Iter [1720/20000] Loss: 3.2753, average_loss: 3.3548
+baseline: Epoch [34], Iter [1730/20000] Loss: 3.5790, average_loss: 3.4458
+baseline: Epoch [34], Iter [1740/20000] Loss: 3.8852, average_loss: 3.4733
+baseline: Epoch [34], Iter [1750/20000] Loss: 3.4414, average_loss: 3.4957
+baseline: TEST LOSS on 34th epoch: 3.5259787363743564
+baseline: Epoch [35], Iter [1760/20000] Loss: 3.2987, average_loss: 3.4376
+baseline: Epoch [35], Iter [1770/20000] Loss: 3.4106, average_loss: 3.4534
+baseline: Epoch [35], Iter [1780/20000] Loss: 3.2143, average_loss: 3.4431
+baseline: Epoch [35], Iter [1790/20000] Loss: 3.4076, average_loss: 3.4413
+baseline: Epoch [35], Iter [1800/20000] Loss: 3.2112, average_loss: 3.4235
+baseline: TEST LOSS on 35th epoch: 3.464986480339587
+baseline: Epoch [36], Iter [1810/20000] Loss: 3.6531, average_loss: 3.5868
+baseline: Epoch [36], Iter [1820/20000] Loss: 3.2408, average_loss: 3.4678
+baseline: Epoch [36], Iter [1830/20000] Loss: 3.6647, average_loss: 3.4427
+baseline: Epoch [36], Iter [1840/20000] Loss: 3.6041, average_loss: 3.4225
+baseline: Epoch [36], Iter [1850/20000] Loss: 3.1380, average_loss: 3.4340
+baseline: TEST LOSS on 36th epoch: 3.5510685292588096
+baseline: Epoch [37], Iter [1860/20000] Loss: 3.6379, average_loss: 3.4133
+baseline: Epoch [37], Iter [1870/20000] Loss: 3.3551, average_loss: 3.4367
+baseline: Epoch [37], Iter [1880/20000] Loss: 3.9258, average_loss: 3.4608
+baseline: Epoch [37], Iter [1890/20000] Loss: 3.6707, average_loss: 3.4500
+baseline: Epoch [37], Iter [1900/20000] Loss: 4.0062, average_loss: 3.4741
+baseline: TEST LOSS on 37th epoch: 3.612768690155916
+baseline: Epoch [38], Iter [1910/20000] Loss: 3.1982, average_loss: 3.4667
+baseline: Epoch [38], Iter [1920/20000] Loss: 3.7669, average_loss: 3.4732
+baseline: Epoch [38], Iter [1930/20000] Loss: 3.5554, average_loss: 3.4374
+baseline: Epoch [38], Iter [1940/20000] Loss: 4.0630, average_loss: 3.4502
+baseline: Epoch [38], Iter [1950/20000] Loss: 3.0052, average_loss: 3.4345
+baseline: TEST LOSS on 38th epoch: 3.4757362604141235
+baseline: Epoch [39], Iter [1960/20000] Loss: 3.2949, average_loss: 3.4749
+baseline: Epoch [39], Iter [1970/20000] Loss: 3.3667, average_loss: 3.4146
+baseline: Epoch [39], Iter [1980/20000] Loss: 3.3030, average_loss: 3.4135
+baseline: Epoch [39], Iter [1990/20000] Loss: 2.9269, average_loss: 3.4280
+baseline: Epoch [39], Iter [2000/20000] Loss: 3.0532, average_loss: 3.4281
+baseline: TEST LOSS on 39th epoch: 3.5212795783620363
+baseline: Epoch [40], Iter [2010/20000] Loss: 3.4051, average_loss: 3.3784
+baseline: Epoch [40], Iter [2020/20000] Loss: 3.6002, average_loss: 3.3085
+baseline: Epoch [40], Iter [2030/20000] Loss: 3.7430, average_loss: 3.3738
+baseline: Epoch [40], Iter [2040/20000] Loss: 3.7903, average_loss: 3.3999
+baseline: Epoch [40], Iter [2050/20000] Loss: 3.5071, average_loss: 3.4116
+baseline: TEST LOSS on 40th epoch: 3.576508070350787
+baseline: Epoch [41], Iter [2060/20000] Loss: 3.1905, average_loss: 3.3840
+baseline: Epoch [41], Iter [2070/20000] Loss: 3.5784, average_loss: 3.4774
+baseline: Epoch [41], Iter [2080/20000] Loss: 3.8016, average_loss: 3.4452
+baseline: Epoch [41], Iter [2090/20000] Loss: 3.6049, average_loss: 3.4303
+baseline: Epoch [41], Iter [2100/20000] Loss: 3.5945, average_loss: 3.4321
+baseline: TEST LOSS on 41th epoch: 3.4608989268632473
+baseline: Epoch [42], Iter [2110/20000] Loss: 3.1431, average_loss: 3.3215
+baseline: Epoch [42], Iter [2120/20000] Loss: 3.5420, average_loss: 3.3502
+baseline: Epoch [42], Iter [2130/20000] Loss: 3.3774, average_loss: 3.3440
+baseline: Epoch [42], Iter [2140/20000] Loss: 3.3077, average_loss: 3.3564
+baseline: Epoch [42], Iter [2150/20000] Loss: 3.3723, average_loss: 3.3615
+baseline: TEST LOSS on 42th epoch: 3.4726793518124737
+baseline: Epoch [43], Iter [2160/20000] Loss: 3.4623, average_loss: 3.4404
+baseline: Epoch [43], Iter [2170/20000] Loss: 3.0607, average_loss: 3.3637
+baseline: Epoch [43], Iter [2180/20000] Loss: 3.5576, average_loss: 3.3521
+baseline: Epoch [43], Iter [2190/20000] Loss: 3.3745, average_loss: 3.3667
+baseline: Epoch [43], Iter [2200/20000] Loss: 3.6610, average_loss: 3.3751
+baseline: TEST LOSS on 43th epoch: 3.533868077698104
+baseline: Epoch [44], Iter [2210/20000] Loss: 3.4993, average_loss: 3.3362
+baseline: Epoch [44], Iter [2220/20000] Loss: 3.3978, average_loss: 3.3337
+baseline: Epoch [44], Iter [2230/20000] Loss: 3.3352, average_loss: 3.3330
+baseline: Epoch [44], Iter [2240/20000] Loss: 3.4483, average_loss: 3.3491
+baseline: Epoch [44], Iter [2250/20000] Loss: 3.2171, average_loss: 3.3190
+baseline: TEST LOSS on 44th epoch: 3.412759358365237
+baseline: Epoch [45], Iter [2260/20000] Loss: 3.2581, average_loss: 3.2461
+baseline: Epoch [45], Iter [2270/20000] Loss: 3.2243, average_loss: 3.2380
+baseline: Epoch [45], Iter [2280/20000] Loss: 3.4624, average_loss: 3.2572
+baseline: Epoch [45], Iter [2290/20000] Loss: 3.3932, average_loss: 3.2881
+baseline: Epoch [45], Iter [2300/20000] Loss: 3.0566, average_loss: 3.3134
+baseline: TEST LOSS on 45th epoch: 3.4050507485319716
+baseline: Epoch [46], Iter [2310/20000] Loss: 3.2382, average_loss: 3.3265
+baseline: Epoch [46], Iter [2320/20000] Loss: 3.4036, average_loss: 3.3036
+baseline: Epoch [46], Iter [2330/20000] Loss: 2.9844, average_loss: 3.2699
+baseline: Epoch [46], Iter [2340/20000] Loss: 3.1325, average_loss: 3.2638
+baseline: Epoch [46], Iter [2350/20000] Loss: 3.1673, average_loss: 3.2726
+baseline: TEST LOSS on 46th epoch: 3.4212337014142893
+baseline: Epoch [47], Iter [2360/20000] Loss: 3.8303, average_loss: 3.2811
+baseline: Epoch [47], Iter [2370/20000] Loss: 3.1475, average_loss: 3.3014
+baseline: Epoch [47], Iter [2380/20000] Loss: 3.1867, average_loss: 3.2902
+baseline: Epoch [47], Iter [2390/20000] Loss: 3.2558, average_loss: 3.2902
+baseline: Epoch [47], Iter [2400/20000] Loss: 3.3138, average_loss: 3.3081
+baseline: TEST LOSS on 47th epoch: 3.465440351117277
+baseline: Epoch [48], Iter [2410/20000] Loss: 3.2101, average_loss: 3.3174
+baseline: Epoch [48], Iter [2420/20000] Loss: 3.1186, average_loss: 3.3076
+baseline: Epoch [48], Iter [2430/20000] Loss: 3.1581, average_loss: 3.2646
+baseline: Epoch [48], Iter [2440/20000] Loss: 3.2485, average_loss: 3.2958
+baseline: Epoch [48], Iter [2450/20000] Loss: 3.4158, average_loss: 3.2849
+baseline: TEST LOSS on 48th epoch: 3.363576625100699
+baseline: Epoch [49], Iter [2460/20000] Loss: 2.8492, average_loss: 3.1883
+baseline: Epoch [49], Iter [2470/20000] Loss: 3.2933, average_loss: 3.2576
+baseline: Epoch [49], Iter [2480/20000] Loss: 3.3329, average_loss: 3.2736
+baseline: Epoch [49], Iter [2490/20000] Loss: 2.8473, average_loss: 3.2632
+baseline: Epoch [49], Iter [2500/20000] Loss: 3.0256, average_loss: 3.2484
+baseline: TEST LOSS on 49th epoch: 3.2983361958363733
+baseline: Epoch [50], Iter [2510/20000] Loss: 3.1197, average_loss: 3.1908
+baseline: Epoch [50], Iter [2520/20000] Loss: 3.3696, average_loss: 3.2255
+baseline: Epoch [50], Iter [2530/20000] Loss: 3.5247, average_loss: 3.2160
+baseline: Epoch [50], Iter [2540/20000] Loss: 3.1140, average_loss: 3.2466
+baseline: Epoch [50], Iter [2550/20000] Loss: 3.1718, average_loss: 3.2558
+baseline: TEST LOSS on 50th epoch: 3.388584004265088
+baseline: Epoch [51], Iter [2560/20000] Loss: 3.4319, average_loss: 3.4188
+baseline: Epoch [51], Iter [2570/20000] Loss: 2.9848, average_loss: 3.3085
+baseline: Epoch [51], Iter [2580/20000] Loss: 3.4690, average_loss: 3.2803
+baseline: Epoch [51], Iter [2590/20000] Loss: 3.2295, average_loss: 3.2694
+baseline: Epoch [51], Iter [2600/20000] Loss: 3.5041, average_loss: 3.2622
+baseline: TEST LOSS on 51th epoch: 3.2463507632232225
+baseline: Epoch [52], Iter [2610/20000] Loss: 3.1779, average_loss: 3.2248
+baseline: Epoch [52], Iter [2620/20000] Loss: 3.2215, average_loss: 3.2303
+baseline: Epoch [52], Iter [2630/20000] Loss: 2.9878, average_loss: 3.2305
+baseline: Epoch [52], Iter [2640/20000] Loss: 3.0814, average_loss: 3.1947
+baseline: Epoch [52], Iter [2650/20000] Loss: 3.3230, average_loss: 3.1853
+baseline: TEST LOSS on 52th epoch: 3.3335515018267734
+baseline: Epoch [53], Iter [2660/20000] Loss: 3.4881, average_loss: 3.1579
+baseline: Epoch [53], Iter [2670/20000] Loss: 3.1209, average_loss: 3.2154
+baseline: Epoch [53], Iter [2680/20000] Loss: 2.8060, average_loss: 3.2049
+baseline: Epoch [53], Iter [2690/20000] Loss: 3.2833, average_loss: 3.2218
+baseline: Epoch [53], Iter [2700/20000] Loss: 3.2083, average_loss: 3.2326
+baseline: TEST LOSS on 53th epoch: 3.3036418054081977
+baseline: Epoch [54], Iter [2710/20000] Loss: 3.1328, average_loss: 3.2125
+baseline: Epoch [54], Iter [2720/20000] Loss: 3.3079, average_loss: 3.2109
+baseline: Epoch [54], Iter [2730/20000] Loss: 3.3964, average_loss: 3.2023
+baseline: Epoch [54], Iter [2740/20000] Loss: 2.9011, average_loss: 3.1716
+baseline: Epoch [54], Iter [2750/20000] Loss: 2.9929, average_loss: 3.1685
+baseline: TEST LOSS on 54th epoch: 3.6124849561886685
+baseline: Epoch [55], Iter [2760/20000] Loss: 3.2383, average_loss: 3.0791
+baseline: Epoch [55], Iter [2770/20000] Loss: 2.9755, average_loss: 3.1680
+baseline: Epoch [55], Iter [2780/20000] Loss: 3.2238, average_loss: 3.2059
+baseline: Epoch [55], Iter [2790/20000] Loss: 3.3872, average_loss: 3.2158
+baseline: Epoch [55], Iter [2800/20000] Loss: 3.4493, average_loss: 3.2097
+baseline: TEST LOSS on 55th epoch: 3.224995990776505
+baseline: Epoch [56], Iter [2810/20000] Loss: 3.4546, average_loss: 3.2300
+baseline: Epoch [56], Iter [2820/20000] Loss: 2.9315, average_loss: 3.1813
+baseline: Epoch [56], Iter [2830/20000] Loss: 3.4812, average_loss: 3.2043
+baseline: Epoch [56], Iter [2840/20000] Loss: 3.3768, average_loss: 3.2010
+baseline: Epoch [56], Iter [2850/20000] Loss: 3.3461, average_loss: 3.2083
+baseline: TEST LOSS on 56th epoch: 3.30179013699202
+baseline: Epoch [57], Iter [2860/20000] Loss: 3.3366, average_loss: 3.1704
+baseline: Epoch [57], Iter [2870/20000] Loss: 2.9630, average_loss: 3.1336
+baseline: Epoch [57], Iter [2880/20000] Loss: 3.0886, average_loss: 3.1208
+baseline: Epoch [57], Iter [2890/20000] Loss: 3.1919, average_loss: 3.1099
+baseline: Epoch [57], Iter [2900/20000] Loss: 3.2838, average_loss: 3.1445
+baseline: TEST LOSS on 57th epoch: 3.365532406426351
+baseline: Epoch [58], Iter [2910/20000] Loss: 2.8475, average_loss: 3.1150
+baseline: Epoch [58], Iter [2920/20000] Loss: 3.3231, average_loss: 3.1393
+baseline: Epoch [58], Iter [2930/20000] Loss: 3.1168, average_loss: 3.1256
+baseline: Epoch [58], Iter [2940/20000] Loss: 3.3058, average_loss: 3.1470
+baseline: Epoch [58], Iter [2950/20000] Loss: 3.2301, average_loss: 3.1756
+baseline: TEST LOSS on 58th epoch: 3.4604936442608496
+baseline: Epoch [59], Iter [2960/20000] Loss: 3.3186, average_loss: 3.2218
+baseline: Epoch [59], Iter [2970/20000] Loss: 3.3865, average_loss: 3.1648
+baseline: Epoch [59], Iter [2980/20000] Loss: 2.8789, average_loss: 3.1522
+baseline: Epoch [59], Iter [2990/20000] Loss: 3.6656, average_loss: 3.1690
+baseline: Epoch [59], Iter [3000/20000] Loss: 2.9652, average_loss: 3.1463
+baseline: TEST LOSS on 59th epoch: 3.236081664533061
+baseline: Epoch [60], Iter [3010/20000] Loss: 2.8571, average_loss: 3.1576
+baseline: Epoch [60], Iter [3020/20000] Loss: 2.9982, average_loss: 3.1526
+baseline: Epoch [60], Iter [3030/20000] Loss: 3.2785, average_loss: 3.1784
+baseline: Epoch [60], Iter [3040/20000] Loss: 2.9920, average_loss: 3.1659
+baseline: Epoch [60], Iter [3050/20000] Loss: 2.9742, average_loss: 3.1589
+baseline: TEST LOSS on 60th epoch: 3.188393862422453
+baseline: Epoch [61], Iter [3060/20000] Loss: 3.4694, average_loss: 3.1456
+baseline: Epoch [61], Iter [3070/20000] Loss: 3.1277, average_loss: 3.1233
+baseline: Epoch [61], Iter [3080/20000] Loss: 3.5120, average_loss: 3.1155
+baseline: Epoch [61], Iter [3090/20000] Loss: 3.5729, average_loss: 3.1367
+baseline: Epoch [61], Iter [3100/20000] Loss: 2.5367, average_loss: 3.1237
+baseline: TEST LOSS on 61th epoch: 3.2887399132827735
+baseline: Epoch [62], Iter [3110/20000] Loss: 3.0840, average_loss: 3.1292
+baseline: Epoch [62], Iter [3120/20000] Loss: 2.9174, average_loss: 3.0848
+baseline: Epoch [62], Iter [3130/20000] Loss: 3.1506, average_loss: 3.1212
+baseline: Epoch [62], Iter [3140/20000] Loss: 3.3789, average_loss: 3.1107
+baseline: Epoch [62], Iter [3150/20000] Loss: 2.9377, average_loss: 3.0954
+baseline: TEST LOSS on 62th epoch: 3.201506950439663
+baseline: Epoch [63], Iter [3160/20000] Loss: 3.3299, average_loss: 2.9175
+baseline: Epoch [63], Iter [3170/20000] Loss: 3.0680, average_loss: 3.0048
+baseline: Epoch [63], Iter [3180/20000] Loss: 2.8223, average_loss: 3.0469
+baseline: Epoch [63], Iter [3190/20000] Loss: 2.8392, average_loss: 3.0595
+baseline: Epoch [63], Iter [3200/20000] Loss: 2.9155, average_loss: 3.0487
+baseline: TEST LOSS on 63th epoch: 3.2035800832856323
+baseline: Epoch [64], Iter [3210/20000] Loss: 3.1503, average_loss: 3.0945
+baseline: Epoch [64], Iter [3220/20000] Loss: 3.2182, average_loss: 3.0939
+baseline: Epoch [64], Iter [3230/20000] Loss: 3.0612, average_loss: 3.0791
+baseline: Epoch [64], Iter [3240/20000] Loss: 3.0002, average_loss: 3.0756
+baseline: Epoch [64], Iter [3250/20000] Loss: 3.0683, average_loss: 3.0851
+baseline: TEST LOSS on 64th epoch: 3.1892869702172937
+baseline: Epoch [65], Iter [3260/20000] Loss: 3.1605, average_loss: 3.1177
+baseline: Epoch [65], Iter [3270/20000] Loss: 2.9915, average_loss: 3.0818
+baseline: Epoch [65], Iter [3280/20000] Loss: 3.0992, average_loss: 3.0525
+baseline: Epoch [65], Iter [3290/20000] Loss: 3.2496, average_loss: 3.0777
+baseline: Epoch [65], Iter [3300/20000] Loss: 2.9203, average_loss: 3.0748
+baseline: TEST LOSS on 65th epoch: 3.158995502403388
+baseline: Epoch [66], Iter [3310/20000] Loss: 3.0953, average_loss: 3.0879
+baseline: Epoch [66], Iter [3320/20000] Loss: 3.0637, average_loss: 3.1069
+baseline: Epoch [66], Iter [3330/20000] Loss: 3.1633, average_loss: 3.0285
+baseline: Epoch [66], Iter [3340/20000] Loss: 3.1542, average_loss: 3.0670
+baseline: Epoch [66], Iter [3350/20000] Loss: 3.4797, average_loss: 3.0679
+baseline: TEST LOSS on 66th epoch: 3.1453760499618832
+baseline: Epoch [67], Iter [3360/20000] Loss: 2.8802, average_loss: 3.0933
+baseline: Epoch [67], Iter [3370/20000] Loss: 3.1147, average_loss: 3.1064
+baseline: Epoch [67], Iter [3380/20000] Loss: 3.5634, average_loss: 3.1027
+baseline: Epoch [67], Iter [3390/20000] Loss: 3.0241, average_loss: 3.1139
+baseline: Epoch [67], Iter [3400/20000] Loss: 2.7841, average_loss: 3.0879
+baseline: TEST LOSS on 67th epoch: 3.2189917115990174
+baseline: Epoch [68], Iter [3410/20000] Loss: 2.8269, average_loss: 3.1680
+baseline: Epoch [68], Iter [3420/20000] Loss: 2.6685, average_loss: 3.0336
+baseline: Epoch [68], Iter [3430/20000] Loss: 3.2630, average_loss: 3.0705
+baseline: Epoch [68], Iter [3440/20000] Loss: 2.8207, average_loss: 3.0400
+baseline: Epoch [68], Iter [3450/20000] Loss: 2.5282, average_loss: 3.0186
+baseline: TEST LOSS on 68th epoch: 3.0834430374136756
+baseline: Epoch [69], Iter [3460/20000] Loss: 3.2546, average_loss: 3.0317
+baseline: Epoch [69], Iter [3470/20000] Loss: 3.2041, average_loss: 3.0190
+baseline: Epoch [69], Iter [3480/20000] Loss: 2.8483, average_loss: 3.0091
+baseline: Epoch [69], Iter [3490/20000] Loss: 2.8720, average_loss: 2.9990
+baseline: Epoch [69], Iter [3500/20000] Loss: 3.0096, average_loss: 3.0159
+baseline: TEST LOSS on 69th epoch: 3.0812297184532937
+baseline: Epoch [70], Iter [3510/20000] Loss: 3.0070, average_loss: 2.9871
+baseline: Epoch [70], Iter [3520/20000] Loss: 2.8823, average_loss: 2.9797
+baseline: Epoch [70], Iter [3530/20000] Loss: 2.7965, average_loss: 3.0111
+baseline: Epoch [70], Iter [3540/20000] Loss: 3.3660, average_loss: 3.0354
+baseline: Epoch [70], Iter [3550/20000] Loss: 2.9626, average_loss: 3.0295
+baseline: TEST LOSS on 70th epoch: 3.1086409677059277
+baseline: Epoch [71], Iter [3560/20000] Loss: 2.9829, average_loss: 3.1068
+baseline: Epoch [71], Iter [3570/20000] Loss: 3.0625, average_loss: 3.0468
+baseline: Epoch [71], Iter [3580/20000] Loss: 2.7139, average_loss: 2.9893
+baseline: Epoch [71], Iter [3590/20000] Loss: 3.0966, average_loss: 2.9931
+baseline: Epoch [71], Iter [3600/20000] Loss: 2.9965, average_loss: 2.9926
+baseline: TEST LOSS on 71th epoch: 3.1182930719232704
+baseline: Epoch [72], Iter [3610/20000] Loss: 3.1365, average_loss: 2.9126
+baseline: Epoch [72], Iter [3620/20000] Loss: 3.0578, average_loss: 2.9292
+baseline: Epoch [72], Iter [3630/20000] Loss: 2.5106, average_loss: 2.9395
+baseline: Epoch [72], Iter [3640/20000] Loss: 2.9284, average_loss: 2.9261
+baseline: Epoch [72], Iter [3650/20000] Loss: 2.9898, average_loss: 2.9467
+baseline: TEST LOSS on 72th epoch: 3.1021864933705112
+baseline: Epoch [73], Iter [3660/20000] Loss: 2.9634, average_loss: 2.9903
+baseline: Epoch [73], Iter [3670/20000] Loss: 3.0522, average_loss: 2.9913
+baseline: Epoch [73], Iter [3680/20000] Loss: 2.5656, average_loss: 2.9702
+baseline: Epoch [73], Iter [3690/20000] Loss: 3.3208, average_loss: 2.9628
+baseline: Epoch [73], Iter [3700/20000] Loss: 2.8904, average_loss: 2.9719
+baseline: TEST LOSS on 73th epoch: 3.142763956059739
+baseline: Epoch [74], Iter [3710/20000] Loss: 2.5724, average_loss: 2.9885
+baseline: Epoch [74], Iter [3720/20000] Loss: 2.6719, average_loss: 2.9436
+baseline: Epoch [74], Iter [3730/20000] Loss: 2.7575, average_loss: 2.9990
+baseline: Epoch [74], Iter [3740/20000] Loss: 2.7836, average_loss: 2.9754
+baseline: Epoch [74], Iter [3750/20000] Loss: 2.8841, average_loss: 2.9610
+baseline: TEST LOSS on 74th epoch: 3.125597257315201
+baseline: Epoch [75], Iter [3760/20000] Loss: 2.8327, average_loss: 2.9384
+baseline: Epoch [75], Iter [3770/20000] Loss: 2.7535, average_loss: 2.9213
+baseline: Epoch [75], Iter [3780/20000] Loss: 3.0566, average_loss: 3.0042
+baseline: Epoch [75], Iter [3790/20000] Loss: 3.2485, average_loss: 3.0146
+baseline: Epoch [75], Iter [3800/20000] Loss: 3.2600, average_loss: 2.9625
+baseline: TEST LOSS on 75th epoch: 2.9768236470878673
+baseline: Epoch [76], Iter [3810/20000] Loss: 2.2460, average_loss: 2.9494
+baseline: Epoch [76], Iter [3820/20000] Loss: 3.1676, average_loss: 2.9167
+baseline: Epoch [76], Iter [3830/20000] Loss: 2.7546, average_loss: 2.9254
+baseline: Epoch [76], Iter [3840/20000] Loss: 2.9488, average_loss: 2.9127
+baseline: Epoch [76], Iter [3850/20000] Loss: 3.0334, average_loss: 2.9288
+baseline: TEST LOSS on 76th epoch: 3.0783005365902496
+baseline: Epoch [77], Iter [3860/20000] Loss: 2.8129, average_loss: 2.9418
+baseline: Epoch [77], Iter [3870/20000] Loss: 2.7346, average_loss: 2.8966
+baseline: Epoch [77], Iter [3880/20000] Loss: 2.7905, average_loss: 2.9581
+baseline: Epoch [77], Iter [3890/20000] Loss: 2.9827, average_loss: 2.9502
+baseline: Epoch [77], Iter [3900/20000] Loss: 2.5463, average_loss: 2.9337
+baseline: TEST LOSS on 77th epoch: 3.027826502782489
+baseline: Epoch [78], Iter [3910/20000] Loss: 2.9397, average_loss: 2.9116
+baseline: Epoch [78], Iter [3920/20000] Loss: 3.0203, average_loss: 2.9060
+baseline: Epoch [78], Iter [3930/20000] Loss: 3.1495, average_loss: 2.9146
+baseline: Epoch [78], Iter [3940/20000] Loss: 3.1801, average_loss: 2.9604
+baseline: Epoch [78], Iter [3950/20000] Loss: 2.5037, average_loss: 2.9777
+baseline: TEST LOSS on 78th epoch: 3.103631013941692
+baseline: Epoch [79], Iter [3960/20000] Loss: 3.3453, average_loss: 2.9042
+baseline: Epoch [79], Iter [3970/20000] Loss: 2.7091, average_loss: 2.9061
+baseline: Epoch [79], Iter [3980/20000] Loss: 2.6985, average_loss: 2.9248
+baseline: Epoch [79], Iter [3990/20000] Loss: 3.1957, average_loss: 2.9297
+baseline: Epoch [79], Iter [4000/20000] Loss: 3.0109, average_loss: 2.9367
+baseline: TEST LOSS on 79th epoch: 3.0446606577354105
+baseline: Epoch [80], Iter [4010/20000] Loss: 2.6559, average_loss: 2.7233
+baseline: Epoch [80], Iter [4020/20000] Loss: 2.8545, average_loss: 2.7485
+baseline: Epoch [80], Iter [4030/20000] Loss: 2.7585, average_loss: 2.8156
+baseline: Epoch [80], Iter [4040/20000] Loss: 2.6649, average_loss: 2.8014
+baseline: Epoch [80], Iter [4050/20000] Loss: 2.4250, average_loss: 2.8013
+baseline: TEST LOSS on 80th epoch: 2.9121581562979872
+baseline: Epoch [81], Iter [4060/20000] Loss: 2.8617, average_loss: 2.8270
+baseline: Epoch [81], Iter [4070/20000] Loss: 2.6629, average_loss: 2.8186
+baseline: Epoch [81], Iter [4080/20000] Loss: 2.6252, average_loss: 2.7863
+baseline: Epoch [81], Iter [4090/20000] Loss: 2.8915, average_loss: 2.8380
+baseline: Epoch [81], Iter [4100/20000] Loss: 2.8578, average_loss: 2.8062
+baseline: TEST LOSS on 81th epoch: 2.915666659764194
+baseline: Epoch [82], Iter [4110/20000] Loss: 2.6447, average_loss: 2.7813
+baseline: Epoch [82], Iter [4120/20000] Loss: 2.9696, average_loss: 2.7166
+baseline: Epoch [82], Iter [4130/20000] Loss: 2.5196, average_loss: 2.7080
+baseline: Epoch [82], Iter [4140/20000] Loss: 2.6799, average_loss: 2.7556
+baseline: Epoch [82], Iter [4150/20000] Loss: 2.5461, average_loss: 2.7635
+baseline: TEST LOSS on 82th epoch: 2.9265239585065697
+baseline: Epoch [83], Iter [4160/20000] Loss: 2.7610, average_loss: 2.7392
+baseline: Epoch [83], Iter [4170/20000] Loss: 2.7621, average_loss: 2.6951
+baseline: Epoch [83], Iter [4180/20000] Loss: 2.4876, average_loss: 2.6901
+baseline: Epoch [83], Iter [4190/20000] Loss: 3.0588, average_loss: 2.7224
+baseline: Epoch [83], Iter [4200/20000] Loss: 2.8179, average_loss: 2.7336
+baseline: TEST LOSS on 83th epoch: 2.8771206948917576
+baseline: Epoch [84], Iter [4210/20000] Loss: 2.6106, average_loss: 2.6395
+baseline: Epoch [84], Iter [4220/20000] Loss: 2.6888, average_loss: 2.6725
+baseline: Epoch [84], Iter [4230/20000] Loss: 2.9247, average_loss: 2.6759
+baseline: Epoch [84], Iter [4240/20000] Loss: 2.9996, average_loss: 2.7288
+baseline: Epoch [84], Iter [4250/20000] Loss: 3.1887, average_loss: 2.7383
+baseline: TEST LOSS on 84th epoch: 2.9248771398621596
+baseline: Epoch [85], Iter [4260/20000] Loss: 2.6474, average_loss: 2.6257
+baseline: Epoch [85], Iter [4270/20000] Loss: 2.9036, average_loss: 2.6604
+baseline: Epoch [85], Iter [4280/20000] Loss: 2.7719, average_loss: 2.6774
+baseline: Epoch [85], Iter [4290/20000] Loss: 3.2148, average_loss: 2.7139
+baseline: Epoch [85], Iter [4300/20000] Loss: 2.8691, average_loss: 2.7352
+baseline: TEST LOSS on 85th epoch: 2.980413091292075
+baseline: Epoch [86], Iter [4310/20000] Loss: 3.1152, average_loss: 2.8208
+baseline: Epoch [86], Iter [4320/20000] Loss: 2.7093, average_loss: 2.7940
+baseline: Epoch [86], Iter [4330/20000] Loss: 2.6973, average_loss: 2.7895
+baseline: Epoch [86], Iter [4340/20000] Loss: 3.2907, average_loss: 2.7544
+baseline: Epoch [86], Iter [4350/20000] Loss: 2.5838, average_loss: 2.7407
+baseline: TEST LOSS on 86th epoch: 2.9162497917811074
+baseline: Epoch [87], Iter [4360/20000] Loss: 2.7612, average_loss: 2.7361
+baseline: Epoch [87], Iter [4370/20000] Loss: 2.3992, average_loss: 2.7183
+baseline: Epoch [87], Iter [4380/20000] Loss: 2.5082, average_loss: 2.7114
+baseline: Epoch [87], Iter [4390/20000] Loss: 2.4707, average_loss: 2.7155
+baseline: Epoch [87], Iter [4400/20000] Loss: 2.9242, average_loss: 2.6927
+baseline: TEST LOSS on 87th epoch: 2.8637001939140694
+baseline: Epoch [88], Iter [4410/20000] Loss: 2.5232, average_loss: 2.6953
+baseline: Epoch [88], Iter [4420/20000] Loss: 2.3738, average_loss: 2.6616
+baseline: Epoch [88], Iter [4430/20000] Loss: 2.7897, average_loss: 2.6817
+baseline: Epoch [88], Iter [4440/20000] Loss: 2.9352, average_loss: 2.6794
+baseline: Epoch [88], Iter [4450/20000] Loss: 2.2335, average_loss: 2.6901
+baseline: TEST LOSS on 88th epoch: 2.87419702354192
+baseline: Epoch [89], Iter [4460/20000] Loss: 2.5280, average_loss: 2.7122
+baseline: Epoch [89], Iter [4470/20000] Loss: 3.0189, average_loss: 2.6831
+baseline: Epoch [89], Iter [4480/20000] Loss: 2.6700, average_loss: 2.6394
+baseline: Epoch [89], Iter [4490/20000] Loss: 2.7188, average_loss: 2.6569
+baseline: Epoch [89], Iter [4500/20000] Loss: 2.2616, average_loss: 2.6666
+baseline: TEST LOSS on 89th epoch: 2.909981673646046
+baseline: Epoch [90], Iter [4510/20000] Loss: 2.8711, average_loss: 2.6907
+baseline: Epoch [90], Iter [4520/20000] Loss: 3.0384, average_loss: 2.7600
+baseline: Epoch [90], Iter [4530/20000] Loss: 2.8011, average_loss: 2.7586
+baseline: Epoch [90], Iter [4540/20000] Loss: 2.7146, average_loss: 2.7144
+baseline: Epoch [90], Iter [4550/20000] Loss: 2.6112, average_loss: 2.7129
+baseline: TEST LOSS on 90th epoch: 2.8153822117624663
+baseline: Epoch [91], Iter [4560/20000] Loss: 3.5262, average_loss: 2.7183
+baseline: Epoch [91], Iter [4570/20000] Loss: 2.4858, average_loss: 2.6634
+baseline: Epoch [91], Iter [4580/20000] Loss: 2.5459, average_loss: 2.7007
+baseline: Epoch [91], Iter [4590/20000] Loss: 2.8775, average_loss: 2.6778
+baseline: Epoch [91], Iter [4600/20000] Loss: 2.5148, average_loss: 2.6677
+baseline: TEST LOSS on 91th epoch: 2.8763838350226028
+baseline: Epoch [92], Iter [4610/20000] Loss: 2.9038, average_loss: 2.6012
+baseline: Epoch [92], Iter [4620/20000] Loss: 2.8588, average_loss: 2.6456
+baseline: Epoch [92], Iter [4630/20000] Loss: 2.4175, average_loss: 2.6207
+baseline: Epoch [92], Iter [4640/20000] Loss: 2.5923, average_loss: 2.6297
+baseline: Epoch [92], Iter [4650/20000] Loss: 2.8426, average_loss: 2.6441
+baseline: TEST LOSS on 92th epoch: 2.920146087076321
+baseline: Epoch [93], Iter [4660/20000] Loss: 2.7969, average_loss: 2.6888
+baseline: Epoch [93], Iter [4670/20000] Loss: 2.6205, average_loss: 2.6536
+baseline: Epoch [93], Iter [4680/20000] Loss: 3.1127, average_loss: 2.6890
+baseline: Epoch [93], Iter [4690/20000] Loss: 2.9609, average_loss: 2.6928
+baseline: Epoch [93], Iter [4700/20000] Loss: 2.8724, average_loss: 2.7008
+baseline: TEST LOSS on 93th epoch: 2.830523227515206
+baseline: Epoch [94], Iter [4710/20000] Loss: 2.9518, average_loss: 2.6374
+baseline: Epoch [94], Iter [4720/20000] Loss: 2.3618, average_loss: 2.6097
+baseline: Epoch [94], Iter [4730/20000] Loss: 2.4930, average_loss: 2.6254
+baseline: Epoch [94], Iter [4740/20000] Loss: 2.5858, average_loss: 2.6586
+baseline: Epoch [94], Iter [4750/20000] Loss: 2.0980, average_loss: 2.6272
+baseline: TEST LOSS on 94th epoch: 2.8805925893491926
+baseline: Epoch [95], Iter [4760/20000] Loss: 2.6629, average_loss: 2.5855
+baseline: Epoch [95], Iter [4770/20000] Loss: 2.8431, average_loss: 2.6583
+baseline: Epoch [95], Iter [4780/20000] Loss: 2.6174, average_loss: 2.6228
+baseline: Epoch [95], Iter [4790/20000] Loss: 2.3826, average_loss: 2.6367
+baseline: Epoch [95], Iter [4800/20000] Loss: 2.7346, average_loss: 2.6550
+baseline: TEST LOSS on 95th epoch: 2.9893715108206513
+baseline: Epoch [96], Iter [4810/20000] Loss: 2.5882, average_loss: 2.6361
+baseline: Epoch [96], Iter [4820/20000] Loss: 2.5125, average_loss: 2.5519
+baseline: Epoch [96], Iter [4830/20000] Loss: 2.4802, average_loss: 2.6002
+baseline: Epoch [96], Iter [4840/20000] Loss: 2.3586, average_loss: 2.6102
+baseline: Epoch [96], Iter [4850/20000] Loss: 2.6341, average_loss: 2.6220
+baseline: TEST LOSS on 96th epoch: 3.0140924160269056
+baseline: Epoch [97], Iter [4860/20000] Loss: 2.5378, average_loss: 2.6399
+baseline: Epoch [97], Iter [4870/20000] Loss: 3.0583, average_loss: 2.6217
+baseline: Epoch [97], Iter [4880/20000] Loss: 2.6306, average_loss: 2.6367
+baseline: Epoch [97], Iter [4890/20000] Loss: 2.2897, average_loss: 2.6344
+baseline: Epoch [97], Iter [4900/20000] Loss: 2.3483, average_loss: 2.6323
+baseline: TEST LOSS on 97th epoch: 2.8466349231358334
+baseline: Epoch [98], Iter [4910/20000] Loss: 2.7237, average_loss: 2.6688
+baseline: Epoch [98], Iter [4920/20000] Loss: 2.8493, average_loss: 2.6028
+baseline: Epoch [98], Iter [4930/20000] Loss: 2.6161, average_loss: 2.6232
+baseline: Epoch [98], Iter [4940/20000] Loss: 2.3497, average_loss: 2.6118
+baseline: Epoch [98], Iter [4950/20000] Loss: 2.9888, average_loss: 2.5846
+baseline: TEST LOSS on 98th epoch: 2.7845344310142215
+baseline: Epoch [99], Iter [4960/20000] Loss: 2.5760, average_loss: 2.4969
+baseline: Epoch [99], Iter [4970/20000] Loss: 2.5038, average_loss: 2.5467
+baseline: Epoch [99], Iter [4980/20000] Loss: 2.4365, average_loss: 2.5396
+baseline: Epoch [99], Iter [4990/20000] Loss: 2.5665, average_loss: 2.5474
+baseline: Epoch [99], Iter [5000/20000] Loss: 2.4645, average_loss: 2.5607
+baseline: TEST LOSS on 99th epoch: 2.8586810668674083
+baseline: Epoch [100], Iter [5010/20000] Loss: 2.2853, average_loss: 2.6219
+baseline: Epoch [100], Iter [5020/20000] Loss: 3.1292, average_loss: 2.6443
+baseline: Epoch [100], Iter [5030/20000] Loss: 2.8515, average_loss: 2.6217
+baseline: Epoch [100], Iter [5040/20000] Loss: 2.6834, average_loss: 2.6403
+baseline: Epoch [100], Iter [5050/20000] Loss: 2.4053, average_loss: 2.6045
+baseline: TEST LOSS on 100th epoch: 2.911732966564482
+baseline: Epoch [101], Iter [5060/20000] Loss: 2.4452, average_loss: 2.6317
+baseline: Epoch [101], Iter [5070/20000] Loss: 2.5229, average_loss: 2.5787
+baseline: Epoch [101], Iter [5080/20000] Loss: 2.6206, average_loss: 2.5825
+baseline: Epoch [101], Iter [5090/20000] Loss: 2.5258, average_loss: 2.5806
+baseline: Epoch [101], Iter [5100/20000] Loss: 2.6864, average_loss: 2.5775
+baseline: TEST LOSS on 101th epoch: 2.8242235926495414
+baseline: Epoch [102], Iter [5110/20000] Loss: 2.4547, average_loss: 2.5128
+baseline: Epoch [102], Iter [5120/20000] Loss: 2.4909, average_loss: 2.5631
+baseline: Epoch [102], Iter [5130/20000] Loss: 2.6195, average_loss: 2.5698
+baseline: Epoch [102], Iter [5140/20000] Loss: 2.3681, average_loss: 2.5480
+baseline: Epoch [102], Iter [5150/20000] Loss: 2.7316, average_loss: 2.5420
+baseline: TEST LOSS on 102th epoch: 2.8495353153174805
+baseline: Epoch [103], Iter [5160/20000] Loss: 2.6027, average_loss: 2.5123
+baseline: Epoch [103], Iter [5170/20000] Loss: 2.5990, average_loss: 2.4927
+baseline: Epoch [103], Iter [5180/20000] Loss: 2.9386, average_loss: 2.5219
+baseline: Epoch [103], Iter [5190/20000] Loss: 2.7566, average_loss: 2.5515
+baseline: Epoch [103], Iter [5200/20000] Loss: 2.7038, average_loss: 2.5766
+baseline: TEST LOSS on 103th epoch: 2.8272468416698118
+baseline: Epoch [104], Iter [5210/20000] Loss: 2.6272, average_loss: 2.4686
+baseline: Epoch [104], Iter [5220/20000] Loss: 2.4901, average_loss: 2.5140
+baseline: Epoch [104], Iter [5230/20000] Loss: 2.5292, average_loss: 2.5304
+baseline: Epoch [104], Iter [5240/20000] Loss: 2.3417, average_loss: 2.5095
+baseline: Epoch [104], Iter [5250/20000] Loss: 2.7581, average_loss: 2.5190
+baseline: TEST LOSS on 104th epoch: 2.9458832436380766
+baseline: Epoch [105], Iter [5260/20000] Loss: 2.6953, average_loss: 2.5429
+baseline: Epoch [105], Iter [5270/20000] Loss: 2.5088, average_loss: 2.5155
+baseline: Epoch [105], Iter [5280/20000] Loss: 2.2644, average_loss: 2.5009
+baseline: Epoch [105], Iter [5290/20000] Loss: 2.7822, average_loss: 2.5357
+baseline: Epoch [105], Iter [5300/20000] Loss: 2.4763, average_loss: 2.5539
+baseline: TEST LOSS on 105th epoch: 2.8574575214940108
+baseline: Epoch [106], Iter [5310/20000] Loss: 2.3672, average_loss: 2.5891
+baseline: Epoch [106], Iter [5320/20000] Loss: 2.1756, average_loss: 2.5333
+baseline: Epoch [106], Iter [5330/20000] Loss: 2.3855, average_loss: 2.4983
+baseline: Epoch [106], Iter [5340/20000] Loss: 2.5809, average_loss: 2.5020
+baseline: Epoch [106], Iter [5350/20000] Loss: 2.3119, average_loss: 2.5020
+baseline: TEST LOSS on 106th epoch: 2.7868097993212007
+baseline: Epoch [107], Iter [5360/20000] Loss: 2.5754, average_loss: 2.5524
+baseline: Epoch [107], Iter [5370/20000] Loss: 2.7199, average_loss: 2.5371
+baseline: Epoch [107], Iter [5380/20000] Loss: 2.5459, average_loss: 2.5656
+baseline: Epoch [107], Iter [5390/20000] Loss: 2.4487, average_loss: 2.5959
+baseline: Epoch [107], Iter [5400/20000] Loss: 2.4315, average_loss: 2.5858
+baseline: TEST LOSS on 107th epoch: 2.902813043069402
+baseline: Epoch [108], Iter [5410/20000] Loss: 2.3918, average_loss: 2.5257
+baseline: Epoch [108], Iter [5420/20000] Loss: 2.8468, average_loss: 2.5758
+baseline: Epoch [108], Iter [5430/20000] Loss: 2.3212, average_loss: 2.5378
+baseline: Epoch [108], Iter [5440/20000] Loss: 2.9229, average_loss: 2.5422
+baseline: Epoch [108], Iter [5450/20000] Loss: 3.0604, average_loss: 2.5438
+baseline: TEST LOSS on 108th epoch: 2.962464588497757
+baseline: Epoch [109], Iter [5460/20000] Loss: 2.4338, average_loss: 2.4389
+baseline: Epoch [109], Iter [5470/20000] Loss: 2.6051, average_loss: 2.5045
+baseline: Epoch [109], Iter [5480/20000] Loss: 2.6366, average_loss: 2.5266
+baseline: Epoch [109], Iter [5490/20000] Loss: 2.6919, average_loss: 2.5642
+baseline: Epoch [109], Iter [5500/20000] Loss: 2.4702, average_loss: 2.5648
+baseline: TEST LOSS on 109th epoch: 2.935470058192536
+baseline: Epoch [110], Iter [5510/20000] Loss: 2.4123, average_loss: 2.3609
+baseline: Epoch [110], Iter [5520/20000] Loss: 2.7280, average_loss: 2.3887
+baseline: Epoch [110], Iter [5530/20000] Loss: 2.6864, average_loss: 2.4522
+baseline: Epoch [110], Iter [5540/20000] Loss: 2.6514, average_loss: 2.4736
+baseline: Epoch [110], Iter [5550/20000] Loss: 2.7584, average_loss: 2.4866
+baseline: TEST LOSS on 110th epoch: 2.8506009062860356
+baseline: Epoch [111], Iter [5560/20000] Loss: 2.3661, average_loss: 2.4587
+baseline: Epoch [111], Iter [5570/20000] Loss: 2.4837, average_loss: 2.5061
+baseline: Epoch [111], Iter [5580/20000] Loss: 2.5108, average_loss: 2.5000
+baseline: Epoch [111], Iter [5590/20000] Loss: 2.6796, average_loss: 2.5076
+baseline: Epoch [111], Iter [5600/20000] Loss: 2.5591, average_loss: 2.5230
+baseline: TEST LOSS on 111th epoch: 2.905060041023686
+baseline: Epoch [112], Iter [5610/20000] Loss: 2.3410, average_loss: 2.4007
+baseline: Epoch [112], Iter [5620/20000] Loss: 2.7384, average_loss: 2.4809
+baseline: Epoch [112], Iter [5630/20000] Loss: 2.5716, average_loss: 2.4647
+baseline: Epoch [112], Iter [5640/20000] Loss: 2.2847, average_loss: 2.4780
+baseline: Epoch [112], Iter [5650/20000] Loss: 2.5484, average_loss: 2.5051
+baseline: TEST LOSS on 112th epoch: 2.9608629964724957
+baseline: Epoch [113], Iter [5660/20000] Loss: 2.2415, average_loss: 2.4175
+baseline: Epoch [113], Iter [5670/20000] Loss: 2.5533, average_loss: 2.4283
+baseline: Epoch [113], Iter [5680/20000] Loss: 2.4015, average_loss: 2.4369
+baseline: Epoch [113], Iter [5690/20000] Loss: 2.1688, average_loss: 2.4508
+baseline: Epoch [113], Iter [5700/20000] Loss: 2.7832, average_loss: 2.4791
+baseline: TEST LOSS on 113th epoch: 2.8193326729153276
+baseline: Epoch [114], Iter [5710/20000] Loss: 2.2706, average_loss: 2.3577
+baseline: Epoch [114], Iter [5720/20000] Loss: 2.9120, average_loss: 2.4703
+baseline: Epoch [114], Iter [5730/20000] Loss: 2.5113, average_loss: 2.4608
+baseline: Epoch [114], Iter [5740/20000] Loss: 2.6201, average_loss: 2.4793
+baseline: Epoch [114], Iter [5750/20000] Loss: 3.0159, average_loss: 2.4894
+baseline: TEST LOSS on 114th epoch: 2.811241432614283
+baseline: Epoch [115], Iter [5760/20000] Loss: 2.4508, average_loss: 2.5240
+baseline: Epoch [115], Iter [5770/20000] Loss: 2.6105, average_loss: 2.5039
+baseline: Epoch [115], Iter [5780/20000] Loss: 2.1637, average_loss: 2.4865
+baseline: Epoch [115], Iter [5790/20000] Loss: 2.1953, average_loss: 2.4588
+baseline: Epoch [115], Iter [5800/20000] Loss: 2.4386, average_loss: 2.4484
+baseline: TEST LOSS on 115th epoch: 2.8595436705726365
+baseline: Epoch [116], Iter [5810/20000] Loss: 2.4935, average_loss: 2.4132
+baseline: Epoch [116], Iter [5820/20000] Loss: 2.6455, average_loss: 2.4525
+baseline: Epoch [116], Iter [5830/20000] Loss: 2.6139, average_loss: 2.4769
+baseline: Epoch [116], Iter [5840/20000] Loss: 2.3563, average_loss: 2.5000
+baseline: Epoch [116], Iter [5850/20000] Loss: 2.0146, average_loss: 2.4714
+baseline: TEST LOSS on 116th epoch: 2.8850847329568428
+baseline: Epoch [117], Iter [5860/20000] Loss: 2.4236, average_loss: 2.4125
+baseline: Epoch [117], Iter [5870/20000] Loss: 2.6171, average_loss: 2.4621
+baseline: Epoch [117], Iter [5880/20000] Loss: 2.4933, average_loss: 2.4667
+baseline: Epoch [117], Iter [5890/20000] Loss: 2.1793, average_loss: 2.4369
+baseline: Epoch [117], Iter [5900/20000] Loss: 2.1456, average_loss: 2.4405
+baseline: TEST LOSS on 117th epoch: 2.8531370481948968
+baseline: Epoch [118], Iter [5910/20000] Loss: 2.4036, average_loss: 2.5214
+baseline: Epoch [118], Iter [5920/20000] Loss: 2.8075, average_loss: 2.4868
+baseline: Epoch [118], Iter [5930/20000] Loss: 2.1568, average_loss: 2.4843
+baseline: Epoch [118], Iter [5940/20000] Loss: 2.4298, average_loss: 2.4662
+baseline: Epoch [118], Iter [5950/20000] Loss: 2.2913, average_loss: 2.4642
+baseline: TEST LOSS on 118th epoch: 2.907237005343131
+baseline: Epoch [119], Iter [5960/20000] Loss: 1.9998, average_loss: 2.4044
+baseline: Epoch [119], Iter [5970/20000] Loss: 2.4209, average_loss: 2.4271
+baseline: Epoch [119], Iter [5980/20000] Loss: 2.7129, average_loss: 2.4335
+baseline: Epoch [119], Iter [5990/20000] Loss: 2.7389, average_loss: 2.4609
+baseline: Epoch [119], Iter [6000/20000] Loss: 2.4776, average_loss: 2.4671
+baseline: TEST LOSS on 119th epoch: 2.8611824353900523
+baseline: Epoch [120], Iter [6010/20000] Loss: 2.7586, average_loss: 2.3409
+baseline: Epoch [120], Iter [6020/20000] Loss: 2.2390, average_loss: 2.3756
+baseline: Epoch [120], Iter [6030/20000] Loss: 2.3063, average_loss: 2.3788
+baseline: Epoch [120], Iter [6040/20000] Loss: 2.3219, average_loss: 2.4048
+baseline: Epoch [120], Iter [6050/20000] Loss: 2.5379, average_loss: 2.4366
+baseline: TEST LOSS on 120th epoch: 2.8478080734200435
+baseline: Epoch [121], Iter [6060/20000] Loss: 2.5381, average_loss: 2.4642
+baseline: Epoch [121], Iter [6070/20000] Loss: 2.1216, average_loss: 2.3974
+baseline: Epoch [121], Iter [6080/20000] Loss: 2.3114, average_loss: 2.4386
+baseline: Epoch [121], Iter [6090/20000] Loss: 2.4538, average_loss: 2.4716
+baseline: Epoch [121], Iter [6100/20000] Loss: 2.1702, average_loss: 2.4687
+baseline: TEST LOSS on 121th epoch: 2.849334330004654
+baseline: Epoch [122], Iter [6110/20000] Loss: 2.0702, average_loss: 2.3732
+baseline: Epoch [122], Iter [6120/20000] Loss: 2.3932, average_loss: 2.4398
+baseline: Epoch [122], Iter [6130/20000] Loss: 2.3642, average_loss: 2.4185
+baseline: Epoch [122], Iter [6140/20000] Loss: 2.7555, average_loss: 2.4163
+baseline: Epoch [122], Iter [6150/20000] Loss: 2.3674, average_loss: 2.4268
+baseline: TEST LOSS on 122th epoch: 2.813457642764491
+baseline: Epoch [123], Iter [6160/20000] Loss: 2.4109, average_loss: 2.4013
+baseline: Epoch [123], Iter [6170/20000] Loss: 2.4395, average_loss: 2.4186
+baseline: Epoch [123], Iter [6180/20000] Loss: 2.4823, average_loss: 2.4118
+baseline: Epoch [123], Iter [6190/20000] Loss: 2.4891, average_loss: 2.4038
+baseline: Epoch [123], Iter [6200/20000] Loss: 2.4365, average_loss: 2.3971
+baseline: TEST LOSS on 123th epoch: 2.8025223691164536
+baseline: Epoch [124], Iter [6210/20000] Loss: 2.3457, average_loss: 2.4510
+baseline: Epoch [124], Iter [6220/20000] Loss: 2.3258, average_loss: 2.4730
+baseline: Epoch [124], Iter [6230/20000] Loss: 2.1391, average_loss: 2.4235
+baseline: Epoch [124], Iter [6240/20000] Loss: 2.4939, average_loss: 2.4411
+baseline: Epoch [124], Iter [6250/20000] Loss: 2.1080, average_loss: 2.4100
+baseline: TEST LOSS on 124th epoch: 2.817383582803452
+baseline: Epoch [125], Iter [6260/20000] Loss: 2.1344, average_loss: 2.3040
+baseline: Epoch [125], Iter [6270/20000] Loss: 2.4271, average_loss: 2.2988
+baseline: Epoch [125], Iter [6280/20000] Loss: 2.6245, average_loss: 2.3351
+baseline: Epoch [125], Iter [6290/20000] Loss: 2.5709, average_loss: 2.4005
+baseline: Epoch [125], Iter [6300/20000] Loss: 1.8085, average_loss: 2.4126
+baseline: TEST LOSS on 125th epoch: 2.87598450131008
+baseline: Epoch [126], Iter [6310/20000] Loss: 2.7125, average_loss: 2.4955
+baseline: Epoch [126], Iter [6320/20000] Loss: 2.6895, average_loss: 2.4340
+baseline: Epoch [126], Iter [6330/20000] Loss: 2.6038, average_loss: 2.4222
+baseline: Epoch [126], Iter [6340/20000] Loss: 2.2920, average_loss: 2.4070
+baseline: Epoch [126], Iter [6350/20000] Loss: 2.7742, average_loss: 2.4001
+baseline: TEST LOSS on 126th epoch: 2.9001156294017756
+baseline: Epoch [127], Iter [6360/20000] Loss: 2.3306, average_loss: 2.2084
+baseline: Epoch [127], Iter [6370/20000] Loss: 2.4168, average_loss: 2.2787
+baseline: Epoch [127], Iter [6380/20000] Loss: 2.3602, average_loss: 2.3697
+baseline: Epoch [127], Iter [6390/20000] Loss: 2.5575, average_loss: 2.3823
+baseline: Epoch [127], Iter [6400/20000] Loss: 2.4674, average_loss: 2.4077
+baseline: TEST LOSS on 127th epoch: 2.8428608957416057
+baseline: Epoch [128], Iter [6410/20000] Loss: 2.4337, average_loss: 2.4563
+baseline: Epoch [128], Iter [6420/20000] Loss: 2.5973, average_loss: 2.4194
+baseline: Epoch [128], Iter [6430/20000] Loss: 2.7406, average_loss: 2.4302
+baseline: Epoch [128], Iter [6440/20000] Loss: 2.0355, average_loss: 2.4207
+baseline: Epoch [128], Iter [6450/20000] Loss: 2.4706, average_loss: 2.4432
+baseline: TEST LOSS on 128th epoch: 2.752171603364682
+baseline: Epoch [129], Iter [6460/20000] Loss: 2.2727, average_loss: 2.2784
+baseline: Epoch [129], Iter [6470/20000] Loss: 2.3626, average_loss: 2.3456
+baseline: Epoch [129], Iter [6480/20000] Loss: 2.9351, average_loss: 2.3522
+baseline: Epoch [129], Iter [6490/20000] Loss: 2.2829, average_loss: 2.3727
+baseline: Epoch [129], Iter [6500/20000] Loss: 2.1571, average_loss: 2.3576
+baseline: TEST LOSS on 129th epoch: 2.824020189611919
+baseline: Epoch [130], Iter [6510/20000] Loss: 2.3087, average_loss: 2.3288
+baseline: Epoch [130], Iter [6520/20000] Loss: 2.4836, average_loss: 2.3226
+baseline: Epoch [130], Iter [6530/20000] Loss: 2.7407, average_loss: 2.3258
+baseline: Epoch [130], Iter [6540/20000] Loss: 2.2395, average_loss: 2.3221
+baseline: Epoch [130], Iter [6550/20000] Loss: 2.0846, average_loss: 2.3164
+baseline: TEST LOSS on 130th epoch: 2.7815122801229495
+baseline: Epoch [131], Iter [6560/20000] Loss: 2.5112, average_loss: 2.2964
+baseline: Epoch [131], Iter [6570/20000] Loss: 2.1356, average_loss: 2.2916
+baseline: Epoch [131], Iter [6580/20000] Loss: 2.1137, average_loss: 2.2754
+baseline: Epoch [131], Iter [6590/20000] Loss: 2.2503, average_loss: 2.2977
+baseline: Epoch [131], Iter [6600/20000] Loss: 1.8839, average_loss: 2.2955
+baseline: TEST LOSS on 131th epoch: 2.868477595326368
+baseline: Epoch [132], Iter [6610/20000] Loss: 2.5652, average_loss: 2.2318
+baseline: Epoch [132], Iter [6620/20000] Loss: 2.7562, average_loss: 2.2627
+baseline: Epoch [132], Iter [6630/20000] Loss: 1.9949, average_loss: 2.3068
+baseline: Epoch [132], Iter [6640/20000] Loss: 2.4054, average_loss: 2.3110
+baseline: Epoch [132], Iter [6650/20000] Loss: 2.2144, average_loss: 2.3267
+baseline: TEST LOSS on 132th epoch: 2.823336431374973
+baseline: Epoch [133], Iter [6660/20000] Loss: 2.2521, average_loss: 2.2622
+baseline: Epoch [133], Iter [6670/20000] Loss: 2.2437, average_loss: 2.3906
+baseline: Epoch [133], Iter [6680/20000] Loss: 2.4265, average_loss: 2.3862
+baseline: Epoch [133], Iter [6690/20000] Loss: 2.5917, average_loss: 2.3807
+baseline: Epoch [133], Iter [6700/20000] Loss: 2.1684, average_loss: 2.3615
+baseline: TEST LOSS on 133th epoch: 2.856520667262034
+baseline: Epoch [134], Iter [6710/20000] Loss: 2.2273, average_loss: 2.3498
+baseline: Epoch [134], Iter [6720/20000] Loss: 2.3746, average_loss: 2.2996
+baseline: Epoch [134], Iter [6730/20000] Loss: 2.3153, average_loss: 2.3227
+baseline: Epoch [134], Iter [6740/20000] Loss: 2.4313, average_loss: 2.3451
+baseline: Epoch [134], Iter [6750/20000] Loss: 3.0423, average_loss: 2.3748
+baseline: TEST LOSS on 134th epoch: 2.9087148332450004
+baseline: Epoch [135], Iter [6760/20000] Loss: 2.3730, average_loss: 2.2494
+baseline: Epoch [135], Iter [6770/20000] Loss: 2.5741, average_loss: 2.2772
+baseline: Epoch [135], Iter [6780/20000] Loss: 2.4071, average_loss: 2.2677
+baseline: Epoch [135], Iter [6790/20000] Loss: 2.2585, average_loss: 2.2863
+baseline: Epoch [135], Iter [6800/20000] Loss: 2.2316, average_loss: 2.2919
+baseline: TEST LOSS on 135th epoch: 2.8493608342033645
+baseline: Epoch [136], Iter [6810/20000] Loss: 2.1239, average_loss: 2.2599
+baseline: Epoch [136], Iter [6820/20000] Loss: 2.1142, average_loss: 2.2437
+baseline: Epoch [136], Iter [6830/20000] Loss: 2.2875, average_loss: 2.2822
+baseline: Epoch [136], Iter [6840/20000] Loss: 2.1688, average_loss: 2.3007
+baseline: Epoch [136], Iter [6850/20000] Loss: 2.2603, average_loss: 2.2871
+baseline: TEST LOSS on 136th epoch: 2.859376633112584
+baseline: Epoch [137], Iter [6860/20000] Loss: 2.3721, average_loss: 2.2565
+baseline: Epoch [137], Iter [6870/20000] Loss: 2.0777, average_loss: 2.1936
+baseline: Epoch [137], Iter [6880/20000] Loss: 2.4303, average_loss: 2.2792
+baseline: Epoch [137], Iter [6890/20000] Loss: 2.7441, average_loss: 2.2974
+baseline: Epoch [137], Iter [6900/20000] Loss: 1.6668, average_loss: 2.2874
+baseline: TEST LOSS on 137th epoch: 2.832496266846263
+baseline: Epoch [138], Iter [6910/20000] Loss: 2.3143, average_loss: 2.1896
+baseline: Epoch [138], Iter [6920/20000] Loss: 2.0057, average_loss: 2.2819
+baseline: Epoch [138], Iter [6930/20000] Loss: 2.0881, average_loss: 2.3071
+baseline: Epoch [138], Iter [6940/20000] Loss: 2.3692, average_loss: 2.2883
+baseline: Epoch [138], Iter [6950/20000] Loss: 2.7825, average_loss: 2.3045
+baseline: TEST LOSS on 138th epoch: 2.8035104551811103
+baseline: Epoch [139], Iter [6960/20000] Loss: 1.9955, average_loss: 2.2917
+baseline: Epoch [139], Iter [6970/20000] Loss: 2.3545, average_loss: 2.2421
+baseline: Epoch [139], Iter [6980/20000] Loss: 2.3646, average_loss: 2.2948
+baseline: Epoch [139], Iter [6990/20000] Loss: 2.1634, average_loss: 2.2845
+baseline: Epoch [139], Iter [7000/20000] Loss: 2.2879, average_loss: 2.2955
+baseline: TEST LOSS on 139th epoch: 2.900394223607644
+baseline: Epoch [140], Iter [7010/20000] Loss: 2.3629, average_loss: 2.2395
+baseline: Epoch [140], Iter [7020/20000] Loss: 2.0721, average_loss: 2.2178
+baseline: Epoch [140], Iter [7030/20000] Loss: 2.1846, average_loss: 2.2641
+baseline: Epoch [140], Iter [7040/20000] Loss: 2.2077, average_loss: 2.2704
+baseline: Epoch [140], Iter [7050/20000] Loss: 2.6100, average_loss: 2.2714
+baseline: TEST LOSS on 140th epoch: 2.848156881168348
+baseline: Epoch [141], Iter [7060/20000] Loss: 2.2122, average_loss: 2.2767
+baseline: Epoch [141], Iter [7070/20000] Loss: 1.9480, average_loss: 2.2591
+baseline: Epoch [141], Iter [7080/20000] Loss: 2.0855, average_loss: 2.2829
+baseline: Epoch [141], Iter [7090/20000] Loss: 2.4991, average_loss: 2.2799
+baseline: Epoch [141], Iter [7100/20000] Loss: 2.2713, average_loss: 2.3109
+baseline: TEST LOSS on 141th epoch: 2.883263731950649
+baseline: Epoch [142], Iter [7110/20000] Loss: 2.5745, average_loss: 2.2479
+baseline: Epoch [142], Iter [7120/20000] Loss: 1.8744, average_loss: 2.2532
+baseline: Epoch [142], Iter [7130/20000] Loss: 1.9580, average_loss: 2.2635
+baseline: Epoch [142], Iter [7140/20000] Loss: 2.4372, average_loss: 2.2705
+baseline: Epoch [142], Iter [7150/20000] Loss: 2.0382, average_loss: 2.2805
+baseline: TEST LOSS on 142th epoch: 2.8533315396090164
+baseline: Epoch [143], Iter [7160/20000] Loss: 1.8503, average_loss: 2.2006
+baseline: Epoch [143], Iter [7170/20000] Loss: 2.1003, average_loss: 2.2449
+baseline: Epoch [143], Iter [7180/20000] Loss: 2.3233, average_loss: 2.2908
+baseline: Epoch [143], Iter [7190/20000] Loss: 2.6500, average_loss: 2.3042
+baseline: Epoch [143], Iter [7200/20000] Loss: 2.3984, average_loss: 2.3182
+baseline: TEST LOSS on 143th epoch: 2.8022883550836406
+baseline: Epoch [144], Iter [7210/20000] Loss: 1.8868, average_loss: 2.3006
+baseline: Epoch [144], Iter [7220/20000] Loss: 2.4241, average_loss: 2.2578
+baseline: Epoch [144], Iter [7230/20000] Loss: 2.1010, average_loss: 2.2726
+baseline: Epoch [144], Iter [7240/20000] Loss: 2.0697, average_loss: 2.2570
+baseline: Epoch [144], Iter [7250/20000] Loss: 2.2091, average_loss: 2.2882
+baseline: TEST LOSS on 144th epoch: 2.8995090427748655
+baseline: Epoch [145], Iter [7260/20000] Loss: 2.1419, average_loss: 2.2793
+baseline: Epoch [145], Iter [7270/20000] Loss: 2.4663, average_loss: 2.3188
+baseline: Epoch [145], Iter [7280/20000] Loss: 2.6429, average_loss: 2.2945
+baseline: Epoch [145], Iter [7290/20000] Loss: 2.1540, average_loss: 2.2707
+baseline: Epoch [145], Iter [7300/20000] Loss: 2.0011, average_loss: 2.2975
+baseline: TEST LOSS on 145th epoch: 2.8077885707219443
+baseline: Epoch [146], Iter [7310/20000] Loss: 2.1617, average_loss: 2.2340
+baseline: Epoch [146], Iter [7320/20000] Loss: 2.2431, average_loss: 2.2749
+baseline: Epoch [146], Iter [7330/20000] Loss: 2.3407, average_loss: 2.2625
+baseline: Epoch [146], Iter [7340/20000] Loss: 2.5448, average_loss: 2.2958
+baseline: Epoch [146], Iter [7350/20000] Loss: 2.4655, average_loss: 2.2925
+baseline: TEST LOSS on 146th epoch: 2.9428542441366643
+baseline: Epoch [147], Iter [7360/20000] Loss: 2.2326, average_loss: 2.2587
+baseline: Epoch [147], Iter [7370/20000] Loss: 2.0156, average_loss: 2.1902
+baseline: Epoch [147], Iter [7380/20000] Loss: 2.0793, average_loss: 2.2144
+baseline: Epoch [147], Iter [7390/20000] Loss: 2.2490, average_loss: 2.2376
+baseline: Epoch [147], Iter [7400/20000] Loss: 2.2008, average_loss: 2.2431
+baseline: TEST LOSS on 147th epoch: 2.836925241378469
+baseline: Epoch [148], Iter [7410/20000] Loss: 2.1432, average_loss: 2.1387
+baseline: Epoch [148], Iter [7420/20000] Loss: 2.4508, average_loss: 2.1260
+baseline: Epoch [148], Iter [7430/20000] Loss: 2.3091, average_loss: 2.1915
+baseline: Epoch [148], Iter [7440/20000] Loss: 2.3739, average_loss: 2.2375
+baseline: Epoch [148], Iter [7450/20000] Loss: 2.0314, average_loss: 2.2374
+baseline: TEST LOSS on 148th epoch: 3.0067561582323243
+baseline: Epoch [149], Iter [7460/20000] Loss: 2.2099, average_loss: 2.2242
+baseline: Epoch [149], Iter [7470/20000] Loss: 2.2350, average_loss: 2.2134
+baseline: Epoch [149], Iter [7480/20000] Loss: 2.3864, average_loss: 2.2751
+baseline: Epoch [149], Iter [7490/20000] Loss: 2.2364, average_loss: 2.3007
+baseline: Epoch [149], Iter [7500/20000] Loss: 2.3862, average_loss: 2.2809
+baseline: TEST LOSS on 149th epoch: 2.8474238513077434
+baseline: Epoch [150], Iter [7510/20000] Loss: 2.2415, average_loss: 2.1550
+baseline: Epoch [150], Iter [7520/20000] Loss: 2.5737, average_loss: 2.1979
+baseline: Epoch [150], Iter [7530/20000] Loss: 2.0450, average_loss: 2.2247
+baseline: Epoch [150], Iter [7540/20000] Loss: 2.2267, average_loss: 2.2631
+baseline: Epoch [150], Iter [7550/20000] Loss: 2.3635, average_loss: 2.2396
+baseline: TEST LOSS on 150th epoch: 2.8553160394368184
+baseline: Epoch [151], Iter [7560/20000] Loss: 2.2814, average_loss: 2.2891
+baseline: Epoch [151], Iter [7570/20000] Loss: 2.3144, average_loss: 2.2791
+baseline: Epoch [151], Iter [7580/20000] Loss: 2.2982, average_loss: 2.2724
+baseline: Epoch [151], Iter [7590/20000] Loss: 2.2294, average_loss: 2.2452
+baseline: Epoch [151], Iter [7600/20000] Loss: 1.9457, average_loss: 2.2406
+baseline: TEST LOSS on 151th epoch: 2.8594800518193377
+baseline: Epoch [152], Iter [7610/20000] Loss: 2.2057, average_loss: 2.1832
+baseline: Epoch [152], Iter [7620/20000] Loss: 1.8827, average_loss: 2.1481
+baseline: Epoch [152], Iter [7630/20000] Loss: 1.8381, average_loss: 2.1718
+baseline: Epoch [152], Iter [7640/20000] Loss: 2.2575, average_loss: 2.1942
+baseline: Epoch [152], Iter [7650/20000] Loss: 2.1357, average_loss: 2.1998
+baseline: TEST LOSS on 152th epoch: 2.915593017040772
+baseline: Epoch [153], Iter [7660/20000] Loss: 2.1619, average_loss: 2.3071
+baseline: Epoch [153], Iter [7670/20000] Loss: 2.2376, average_loss: 2.2297
+baseline: Epoch [153], Iter [7680/20000] Loss: 2.4371, average_loss: 2.2651
+baseline: Epoch [153], Iter [7690/20000] Loss: 2.1320, average_loss: 2.2950
+baseline: Epoch [153], Iter [7700/20000] Loss: 2.0613, average_loss: 2.2703
+baseline: TEST LOSS on 153th epoch: 2.7949321306444452
+baseline: Epoch [154], Iter [7710/20000] Loss: 2.3338, average_loss: 2.1793
+baseline: Epoch [154], Iter [7720/20000] Loss: 1.9728, average_loss: 2.1638
+baseline: Epoch [154], Iter [7730/20000] Loss: 1.9466, average_loss: 2.1913
+baseline: Epoch [154], Iter [7740/20000] Loss: 2.0819, average_loss: 2.1918
+baseline: Epoch [154], Iter [7750/20000] Loss: 1.8905, average_loss: 2.2113
+baseline: TEST LOSS on 154th epoch: 2.9138203706216377
+baseline: Epoch [155], Iter [7760/20000] Loss: 2.1431, average_loss: 2.2174
+baseline: Epoch [155], Iter [7770/20000] Loss: 2.0018, average_loss: 2.2667
+baseline: Epoch [155], Iter [7780/20000] Loss: 2.2146, average_loss: 2.2494
+baseline: Epoch [155], Iter [7790/20000] Loss: 2.0925, average_loss: 2.2534
+baseline: Epoch [155], Iter [7800/20000] Loss: 2.2056, average_loss: 2.2648
+baseline: TEST LOSS on 155th epoch: 2.9548453991201673
+baseline: Epoch [156], Iter [7810/20000] Loss: 2.3794, average_loss: 2.2530
+baseline: Epoch [156], Iter [7820/20000] Loss: 2.0681, average_loss: 2.2065
+baseline: Epoch [156], Iter [7830/20000] Loss: 2.3022, average_loss: 2.2112
+baseline: Epoch [156], Iter [7840/20000] Loss: 1.8423, average_loss: 2.1963
+baseline: Epoch [156], Iter [7850/20000] Loss: 2.5032, average_loss: 2.2100
+baseline: TEST LOSS on 156th epoch: 2.8503630961482314
+baseline: Epoch [157], Iter [7860/20000] Loss: 2.2103, average_loss: 2.1736
+baseline: Epoch [157], Iter [7870/20000] Loss: 2.6136, average_loss: 2.1858
+baseline: Epoch [157], Iter [7880/20000] Loss: 2.1958, average_loss: 2.2014
+baseline: Epoch [157], Iter [7890/20000] Loss: 2.3964, average_loss: 2.2016
+baseline: Epoch [157], Iter [7900/20000] Loss: 2.2385, average_loss: 2.2082
+baseline: TEST LOSS on 157th epoch: 2.895115475224428
+baseline: Epoch [158], Iter [7910/20000] Loss: 2.2230, average_loss: 2.1482
+baseline: Epoch [158], Iter [7920/20000] Loss: 2.2198, average_loss: 2.2092
+baseline: Epoch [158], Iter [7930/20000] Loss: 2.2350, average_loss: 2.2257
+baseline: Epoch [158], Iter [7940/20000] Loss: 1.9142, average_loss: 2.2131
+baseline: Epoch [158], Iter [7950/20000] Loss: 2.5949, average_loss: 2.2466
+baseline: TEST LOSS on 158th epoch: 2.898276241547471
+baseline: Epoch [159], Iter [7960/20000] Loss: 2.2604, average_loss: 2.0989
+baseline: Epoch [159], Iter [7970/20000] Loss: 1.9938, average_loss: 2.1695
+baseline: Epoch [159], Iter [7980/20000] Loss: 2.0789, average_loss: 2.1825
+baseline: Epoch [159], Iter [7990/20000] Loss: 2.0860, average_loss: 2.2057
+baseline: Epoch [159], Iter [8000/20000] Loss: 2.1287, average_loss: 2.2113
+baseline: TEST LOSS on 159th epoch: 2.8927397977686073
+baseline: Epoch [160], Iter [8010/20000] Loss: 2.1018, average_loss: 2.2353
+baseline: Epoch [160], Iter [8020/20000] Loss: 2.3997, average_loss: 2.2076
+baseline: Epoch [160], Iter [8030/20000] Loss: 2.0775, average_loss: 2.1688
+baseline: Epoch [160], Iter [8040/20000] Loss: 2.0898, average_loss: 2.1172
+baseline: Epoch [160], Iter [8050/20000] Loss: 2.4112, average_loss: 2.1097
+baseline: TEST LOSS on 160th epoch: 2.7192307214853595
+baseline: Epoch [161], Iter [8060/20000] Loss: 2.0999, average_loss: 2.0616
+baseline: Epoch [161], Iter [8070/20000] Loss: 2.1992, average_loss: 2.0677
+baseline: Epoch [161], Iter [8080/20000] Loss: 2.3903, average_loss: 2.0728
+baseline: Epoch [161], Iter [8090/20000] Loss: 1.9721, average_loss: 2.0533
+baseline: Epoch [161], Iter [8100/20000] Loss: 1.9070, average_loss: 2.0392
+baseline: TEST LOSS on 161th epoch: 2.820546656664723
+baseline: Epoch [162], Iter [8110/20000] Loss: 1.9192, average_loss: 1.9709
+baseline: Epoch [162], Iter [8120/20000] Loss: 2.1109, average_loss: 2.0148
+baseline: Epoch [162], Iter [8130/20000] Loss: 2.0077, average_loss: 2.0453
+baseline: Epoch [162], Iter [8140/20000] Loss: 2.0061, average_loss: 2.0222
+baseline: Epoch [162], Iter [8150/20000] Loss: 2.0496, average_loss: 2.0129
+baseline: TEST LOSS on 162th epoch: 2.7469643752691577
+baseline: Epoch [163], Iter [8160/20000] Loss: 2.1467, average_loss: 2.0471
+baseline: Epoch [163], Iter [8170/20000] Loss: 1.9743, average_loss: 2.0285
+baseline: Epoch [163], Iter [8180/20000] Loss: 2.2446, average_loss: 2.0111
+baseline: Epoch [163], Iter [8190/20000] Loss: 1.8973, average_loss: 2.0288
+baseline: Epoch [163], Iter [8200/20000] Loss: 2.2298, average_loss: 2.0200
+baseline: TEST LOSS on 163th epoch: 2.754290038474838
+baseline: Epoch [164], Iter [8210/20000] Loss: 2.2107, average_loss: 1.9885
+baseline: Epoch [164], Iter [8220/20000] Loss: 1.7556, average_loss: 1.9714
+baseline: Epoch [164], Iter [8230/20000] Loss: 2.3854, average_loss: 2.0089
+baseline: Epoch [164], Iter [8240/20000] Loss: 1.8414, average_loss: 1.9951
+baseline: Epoch [164], Iter [8250/20000] Loss: 1.6272, average_loss: 1.9928
+baseline: TEST LOSS on 164th epoch: 2.8292981550234173
+baseline: Epoch [165], Iter [8260/20000] Loss: 1.9262, average_loss: 2.0449
+baseline: Epoch [165], Iter [8270/20000] Loss: 2.1809, average_loss: 2.0013
+baseline: Epoch [165], Iter [8280/20000] Loss: 1.8138, average_loss: 1.9745
+baseline: Epoch [165], Iter [8290/20000] Loss: 2.0115, average_loss: 1.9802
+baseline: Epoch [165], Iter [8300/20000] Loss: 1.9916, average_loss: 2.0027
+baseline: TEST LOSS on 165th epoch: 2.8129900978245868
+baseline: Epoch [166], Iter [8310/20000] Loss: 1.9793, average_loss: 2.1140
+baseline: Epoch [166], Iter [8320/20000] Loss: 2.0203, average_loss: 2.0522
+baseline: Epoch [166], Iter [8330/20000] Loss: 1.9867, average_loss: 2.0393
+baseline: Epoch [166], Iter [8340/20000] Loss: 2.0575, average_loss: 2.0101
+baseline: Epoch [166], Iter [8350/20000] Loss: 1.9391, average_loss: 2.0009
+baseline: TEST LOSS on 166th epoch: 2.796059245636704
+baseline: Epoch [167], Iter [8360/20000] Loss: 2.1163, average_loss: 1.9488
+baseline: Epoch [167], Iter [8370/20000] Loss: 1.6225, average_loss: 1.9000
+baseline: Epoch [167], Iter [8380/20000] Loss: 1.7830, average_loss: 1.9265
+baseline: Epoch [167], Iter [8390/20000] Loss: 1.8625, average_loss: 1.9342
+baseline: Epoch [167], Iter [8400/20000] Loss: 2.4969, average_loss: 1.9648
+baseline: TEST LOSS on 167th epoch: 2.7443602190834304
+baseline: Epoch [168], Iter [8410/20000] Loss: 1.8058, average_loss: 1.9542
+baseline: Epoch [168], Iter [8420/20000] Loss: 1.6381, average_loss: 2.0055
+baseline: Epoch [168], Iter [8430/20000] Loss: 1.7277, average_loss: 1.9616
+baseline: Epoch [168], Iter [8440/20000] Loss: 1.8431, average_loss: 1.9804
+baseline: Epoch [168], Iter [8450/20000] Loss: 1.6207, average_loss: 1.9977
+baseline: TEST LOSS on 168th epoch: 2.8018007490795322
+baseline: Epoch [169], Iter [8460/20000] Loss: 2.4578, average_loss: 1.9810
+baseline: Epoch [169], Iter [8470/20000] Loss: 1.8878, average_loss: 2.0113
+baseline: Epoch [169], Iter [8480/20000] Loss: 1.8208, average_loss: 2.0182
+baseline: Epoch [169], Iter [8490/20000] Loss: 2.1030, average_loss: 2.0120
+baseline: Epoch [169], Iter [8500/20000] Loss: 2.3668, average_loss: 2.0039
+baseline: TEST LOSS on 169th epoch: 2.779615962724073
+baseline: Epoch [170], Iter [8510/20000] Loss: 1.9550, average_loss: 1.9708
+baseline: Epoch [170], Iter [8520/20000] Loss: 1.8420, average_loss: 1.9299
+baseline: Epoch [170], Iter [8530/20000] Loss: 1.8231, average_loss: 1.9323
+baseline: Epoch [170], Iter [8540/20000] Loss: 2.0264, average_loss: 1.9467
+baseline: Epoch [170], Iter [8550/20000] Loss: 2.0282, average_loss: 1.9611
+baseline: TEST LOSS on 170th epoch: 2.8366747977901308
+baseline: Epoch [171], Iter [8560/20000] Loss: 1.9568, average_loss: 1.9221
+baseline: Epoch [171], Iter [8570/20000] Loss: 2.1076, average_loss: 2.0055
+baseline: Epoch [171], Iter [8580/20000] Loss: 2.1248, average_loss: 1.9963
+baseline: Epoch [171], Iter [8590/20000] Loss: 1.7049, average_loss: 1.9664
+baseline: Epoch [171], Iter [8600/20000] Loss: 1.7159, average_loss: 1.9697
+baseline: TEST LOSS on 171th epoch: 2.7658627968315685
+baseline: Epoch [172], Iter [8610/20000] Loss: 2.2101, average_loss: 2.0973
+baseline: Epoch [172], Iter [8620/20000] Loss: 1.9983, average_loss: 2.0480
+baseline: Epoch [172], Iter [8630/20000] Loss: 2.0618, average_loss: 2.0087
+baseline: Epoch [172], Iter [8640/20000] Loss: 2.2114, average_loss: 2.0186
+baseline: Epoch [172], Iter [8650/20000] Loss: 1.8913, average_loss: 1.9874
+baseline: TEST LOSS on 172th epoch: 2.7673365295115597
+baseline: Epoch [173], Iter [8660/20000] Loss: 1.8171, average_loss: 1.9808
+baseline: Epoch [173], Iter [8670/20000] Loss: 1.8312, average_loss: 1.9754
+baseline: Epoch [173], Iter [8680/20000] Loss: 1.6978, average_loss: 1.9451
+baseline: Epoch [173], Iter [8690/20000] Loss: 2.1197, average_loss: 1.9577
+baseline: Epoch [173], Iter [8700/20000] Loss: 2.0358, average_loss: 1.9730
+baseline: TEST LOSS on 173th epoch: 2.8075219354498278
+baseline: Epoch [174], Iter [8710/20000] Loss: 1.9696, average_loss: 1.9715
+baseline: Epoch [174], Iter [8720/20000] Loss: 2.0786, average_loss: 1.9803
+baseline: Epoch [174], Iter [8730/20000] Loss: 1.5582, average_loss: 1.9904
+baseline: Epoch [174], Iter [8740/20000] Loss: 1.7925, average_loss: 1.9854
+baseline: Epoch [174], Iter [8750/20000] Loss: 2.2845, average_loss: 1.9793
+baseline: TEST LOSS on 174th epoch: 2.8312064817556912
+baseline: Epoch [175], Iter [8760/20000] Loss: 1.7070, average_loss: 1.8962
+baseline: Epoch [175], Iter [8770/20000] Loss: 1.9230, average_loss: 1.9035
+baseline: Epoch [175], Iter [8780/20000] Loss: 1.8525, average_loss: 1.9039
+baseline: Epoch [175], Iter [8790/20000] Loss: 1.6734, average_loss: 1.9327
+baseline: Epoch [175], Iter [8800/20000] Loss: 2.4831, average_loss: 1.9574
+baseline: TEST LOSS on 175th epoch: 2.8487562278359673
+baseline: Epoch [176], Iter [8810/20000] Loss: 2.1489, average_loss: 1.9575
+baseline: Epoch [176], Iter [8820/20000] Loss: 1.8285, average_loss: 1.9586
+baseline: Epoch [176], Iter [8830/20000] Loss: 1.7446, average_loss: 1.9875
+baseline: Epoch [176], Iter [8840/20000] Loss: 1.6946, average_loss: 1.9905
+baseline: Epoch [176], Iter [8850/20000] Loss: 2.1400, average_loss: 2.0011
+baseline: TEST LOSS on 176th epoch: 2.8311402651877215
+baseline: Epoch [177], Iter [8860/20000] Loss: 2.0615, average_loss: 1.9212
+baseline: Epoch [177], Iter [8870/20000] Loss: 1.7185, average_loss: 1.9726
+baseline: Epoch [177], Iter [8880/20000] Loss: 2.0240, average_loss: 1.9640
+baseline: Epoch [177], Iter [8890/20000] Loss: 1.9765, average_loss: 1.9608
+baseline: Epoch [177], Iter [8900/20000] Loss: 1.9478, average_loss: 1.9522
+baseline: TEST LOSS on 177th epoch: 2.7474236287837366
+baseline: Epoch [178], Iter [8910/20000] Loss: 1.7888, average_loss: 1.8685
+baseline: Epoch [178], Iter [8920/20000] Loss: 1.9241, average_loss: 1.9105
+baseline: Epoch [178], Iter [8930/20000] Loss: 2.0778, average_loss: 1.9175
+baseline: Epoch [178], Iter [8940/20000] Loss: 2.0037, average_loss: 1.9074
+baseline: Epoch [178], Iter [8950/20000] Loss: 1.5502, average_loss: 1.8965
+baseline: TEST LOSS on 178th epoch: 2.787022056018176
+baseline: Epoch [179], Iter [8960/20000] Loss: 1.7372, average_loss: 1.8847
+baseline: Epoch [179], Iter [8970/20000] Loss: 1.6246, average_loss: 1.9249
+baseline: Epoch [179], Iter [8980/20000] Loss: 1.8752, average_loss: 1.9290
+baseline: Epoch [179], Iter [8990/20000] Loss: 1.9999, average_loss: 1.9404
+baseline: Epoch [179], Iter [9000/20000] Loss: 1.9430, average_loss: 1.9364
+baseline: TEST LOSS on 179th epoch: 2.847047296959326
+baseline: Epoch [180], Iter [9010/20000] Loss: 1.7567, average_loss: 1.8612
+baseline: Epoch [180], Iter [9020/20000] Loss: 2.0194, average_loss: 1.8679
+baseline: Epoch [180], Iter [9030/20000] Loss: 2.0369, average_loss: 1.8984
+baseline: Epoch [180], Iter [9040/20000] Loss: 1.7962, average_loss: 1.8990
+baseline: Epoch [180], Iter [9050/20000] Loss: 2.1845, average_loss: 1.9033
+baseline: TEST LOSS on 180th epoch: 2.78714131980861
+baseline: Epoch [181], Iter [9060/20000] Loss: 1.7198, average_loss: 1.9928
+baseline: Epoch [181], Iter [9070/20000] Loss: 2.0913, average_loss: 1.9746
+baseline: Epoch [181], Iter [9080/20000] Loss: 1.9682, average_loss: 1.9824
+baseline: Epoch [181], Iter [9090/20000] Loss: 2.6353, average_loss: 1.9900
+baseline: Epoch [181], Iter [9100/20000] Loss: 2.5251, average_loss: 2.0042
+baseline: TEST LOSS on 181th epoch: 2.8140157565064388
+baseline: Epoch [182], Iter [9110/20000] Loss: 2.0629, average_loss: 1.8802
+baseline: Epoch [182], Iter [9120/20000] Loss: 1.7237, average_loss: 1.8863
+baseline: Epoch [182], Iter [9130/20000] Loss: 1.7901, average_loss: 1.8995
+baseline: Epoch [182], Iter [9140/20000] Loss: 2.0589, average_loss: 1.9176
+baseline: Epoch [182], Iter [9150/20000] Loss: 1.8095, average_loss: 1.9128
+baseline: TEST LOSS on 182th epoch: 2.8661957111562795
+baseline: Epoch [183], Iter [9160/20000] Loss: 1.9606, average_loss: 1.9223
+baseline: Epoch [183], Iter [9170/20000] Loss: 1.7613, average_loss: 1.8847
+baseline: Epoch [183], Iter [9180/20000] Loss: 1.6702, average_loss: 1.8979
+baseline: Epoch [183], Iter [9190/20000] Loss: 2.0304, average_loss: 1.9144
+baseline: Epoch [183], Iter [9200/20000] Loss: 2.3295, average_loss: 1.9287
+baseline: TEST LOSS on 183th epoch: 2.782515896569698
+baseline: Epoch [184], Iter [9210/20000] Loss: 1.8419, average_loss: 1.8485
+baseline: Epoch [184], Iter [9220/20000] Loss: 1.9349, average_loss: 1.8915
+baseline: Epoch [184], Iter [9230/20000] Loss: 2.5581, average_loss: 1.8919
+baseline: Epoch [184], Iter [9240/20000] Loss: 2.1754, average_loss: 1.8988
+baseline: Epoch [184], Iter [9250/20000] Loss: 1.9998, average_loss: 1.8982
+baseline: TEST LOSS on 184th epoch: 2.820354363057956
+baseline: Epoch [185], Iter [9260/20000] Loss: 1.7747, average_loss: 1.8335
+baseline: Epoch [185], Iter [9270/20000] Loss: 2.3768, average_loss: 1.9260
+baseline: Epoch [185], Iter [9280/20000] Loss: 1.7818, average_loss: 1.9061
+baseline: Epoch [185], Iter [9290/20000] Loss: 2.0094, average_loss: 1.9191
+baseline: Epoch [185], Iter [9300/20000] Loss: 1.5407, average_loss: 1.9108
+baseline: TEST LOSS on 185th epoch: 2.77943420428384
+baseline: Epoch [186], Iter [9310/20000] Loss: 1.8561, average_loss: 1.8531
+baseline: Epoch [186], Iter [9320/20000] Loss: 1.7224, average_loss: 1.8627
+baseline: Epoch [186], Iter [9330/20000] Loss: 2.1689, average_loss: 1.9073
+baseline: Epoch [186], Iter [9340/20000] Loss: 1.6899, average_loss: 1.9023
+baseline: Epoch [186], Iter [9350/20000] Loss: 1.8320, average_loss: 1.8996
+baseline: TEST LOSS on 186th epoch: 2.8448529203368254
+baseline: Epoch [187], Iter [9360/20000] Loss: 2.1225, average_loss: 1.9315
+baseline: Epoch [187], Iter [9370/20000] Loss: 1.8287, average_loss: 1.9295
+baseline: Epoch [187], Iter [9380/20000] Loss: 2.2134, average_loss: 1.9506
+baseline: Epoch [187], Iter [9390/20000] Loss: 1.8746, average_loss: 1.9430
+baseline: Epoch [187], Iter [9400/20000] Loss: 2.0823, average_loss: 1.9377
+baseline: TEST LOSS on 187th epoch: 2.85204893168324
+baseline: Epoch [188], Iter [9410/20000] Loss: 2.7044, average_loss: 1.9655
+baseline: Epoch [188], Iter [9420/20000] Loss: 1.6965, average_loss: 1.9973
+baseline: Epoch [188], Iter [9430/20000] Loss: 1.9874, average_loss: 1.9758
+baseline: Epoch [188], Iter [9440/20000] Loss: 1.7740, average_loss: 1.9601
+baseline: Epoch [188], Iter [9450/20000] Loss: 2.0909, average_loss: 1.9601
+baseline: TEST LOSS on 188th epoch: 2.795988421739059
+baseline: Epoch [189], Iter [9460/20000] Loss: 2.3977, average_loss: 1.8994
+baseline: Epoch [189], Iter [9470/20000] Loss: 2.0249, average_loss: 1.8840
+baseline: Epoch [189], Iter [9480/20000] Loss: 1.9592, average_loss: 1.8848
+baseline: Epoch [189], Iter [9490/20000] Loss: 2.0169, average_loss: 1.8854
+baseline: Epoch [189], Iter [9500/20000] Loss: 2.2502, average_loss: 1.8910
+baseline: TEST LOSS on 189th epoch: 2.848358828995935
+baseline: Epoch [190], Iter [9510/20000] Loss: 1.9569, average_loss: 1.8573
+baseline: Epoch [190], Iter [9520/20000] Loss: 1.7255, average_loss: 1.8760
+baseline: Epoch [190], Iter [9530/20000] Loss: 1.8320, average_loss: 1.8854
+baseline: Epoch [190], Iter [9540/20000] Loss: 1.6225, average_loss: 1.8602
+baseline: Epoch [190], Iter [9550/20000] Loss: 1.9768, average_loss: 1.8811
+baseline: TEST LOSS on 190th epoch: 2.922714471999294
+baseline: Epoch [191], Iter [9560/20000] Loss: 1.6300, average_loss: 1.8338
+baseline: Epoch [191], Iter [9570/20000] Loss: 1.8588, average_loss: 1.8010
+baseline: Epoch [191], Iter [9580/20000] Loss: 1.6557, average_loss: 1.8173
+baseline: Epoch [191], Iter [9590/20000] Loss: 2.0778, average_loss: 1.8337
+baseline: Epoch [191], Iter [9600/20000] Loss: 2.1385, average_loss: 1.8684
+baseline: TEST LOSS on 191th epoch: 2.830550178293059
+baseline: Epoch [192], Iter [9610/20000] Loss: 1.6485, average_loss: 1.9072
+baseline: Epoch [192], Iter [9620/20000] Loss: 1.8771, average_loss: 1.8981
+baseline: Epoch [192], Iter [9630/20000] Loss: 1.9427, average_loss: 1.8895
+baseline: Epoch [192], Iter [9640/20000] Loss: 1.7230, average_loss: 1.8867
+baseline: Epoch [192], Iter [9650/20000] Loss: 1.5728, average_loss: 1.8588
+baseline: TEST LOSS on 192th epoch: 2.7700030690668553
+baseline: Epoch [193], Iter [9660/20000] Loss: 1.7063, average_loss: 1.7975
+baseline: Epoch [193], Iter [9670/20000] Loss: 1.6818, average_loss: 1.8300
+baseline: Epoch [193], Iter [9680/20000] Loss: 2.0377, average_loss: 1.8425
+baseline: Epoch [193], Iter [9690/20000] Loss: 1.7005, average_loss: 1.8482
+baseline: Epoch [193], Iter [9700/20000] Loss: 2.0006, average_loss: 1.8619
+baseline: TEST LOSS on 193th epoch: 2.8642144264248897
+baseline: Epoch [194], Iter [9710/20000] Loss: 1.6780, average_loss: 1.7924
+baseline: Epoch [194], Iter [9720/20000] Loss: 1.6525, average_loss: 1.8434
+baseline: Epoch [194], Iter [9730/20000] Loss: 1.3619, average_loss: 1.8233
+baseline: Epoch [194], Iter [9740/20000] Loss: 1.9197, average_loss: 1.8401
+baseline: Epoch [194], Iter [9750/20000] Loss: 1.7526, average_loss: 1.8312
+baseline: TEST LOSS on 194th epoch: 2.9684742800321784
+baseline: Epoch [195], Iter [9760/20000] Loss: 2.0012, average_loss: 1.9750
+baseline: Epoch [195], Iter [9770/20000] Loss: 1.7565, average_loss: 1.9000
+baseline: Epoch [195], Iter [9780/20000] Loss: 1.7059, average_loss: 1.8717
+baseline: Epoch [195], Iter [9790/20000] Loss: 1.7371, average_loss: 1.8800
+baseline: Epoch [195], Iter [9800/20000] Loss: 2.0529, average_loss: 1.8863
+baseline: TEST LOSS on 195th epoch: 2.811766973055831
+baseline: Epoch [196], Iter [9810/20000] Loss: 1.5766, average_loss: 1.8118
+baseline: Epoch [196], Iter [9820/20000] Loss: 1.9373, average_loss: 1.8815
+baseline: Epoch [196], Iter [9830/20000] Loss: 2.0017, average_loss: 1.8574
+baseline: Epoch [196], Iter [9840/20000] Loss: 2.0140, average_loss: 1.8601
+baseline: Epoch [196], Iter [9850/20000] Loss: 1.9431, average_loss: 1.8697
+baseline: TEST LOSS on 196th epoch: 2.876721785156005
+baseline: Epoch [197], Iter [9860/20000] Loss: 1.5849, average_loss: 1.7275
+baseline: Epoch [197], Iter [9870/20000] Loss: 1.6638, average_loss: 1.7844
+baseline: Epoch [197], Iter [9880/20000] Loss: 2.1195, average_loss: 1.8337
+baseline: Epoch [197], Iter [9890/20000] Loss: 1.5856, average_loss: 1.8310
+baseline: Epoch [197], Iter [9900/20000] Loss: 1.8130, average_loss: 1.8505
+baseline: TEST LOSS on 197th epoch: 2.8849396953524433
+baseline: Epoch [198], Iter [9910/20000] Loss: 1.8378, average_loss: 1.9451
+baseline: Epoch [198], Iter [9920/20000] Loss: 1.8495, average_loss: 1.9493
+baseline: Epoch [198], Iter [9930/20000] Loss: 1.9014, average_loss: 1.9047
+baseline: Epoch [198], Iter [9940/20000] Loss: 1.6492, average_loss: 1.8848
+baseline: Epoch [198], Iter [9950/20000] Loss: 1.8015, average_loss: 1.8784
+baseline: TEST LOSS on 198th epoch: 2.811031748486586
+baseline: Epoch [199], Iter [9960/20000] Loss: 1.9088, average_loss: 1.9400
+baseline: Epoch [199], Iter [9970/20000] Loss: 1.9126, average_loss: 1.9116
+baseline: Epoch [199], Iter [9980/20000] Loss: 1.7735, average_loss: 1.8921
+baseline: Epoch [199], Iter [9990/20000] Loss: 1.5630, average_loss: 1.8722
+baseline: Epoch [199], Iter [10000/20000] Loss: 2.1073, average_loss: 1.8662
+baseline: TEST LOSS on 199th epoch: 2.820641085915609
+baseline: Epoch [200], Iter [10010/20000] Loss: 1.7100, average_loss: 1.8499
+baseline: Epoch [200], Iter [10020/20000] Loss: 1.9981, average_loss: 1.8460
+baseline: Epoch [200], Iter [10030/20000] Loss: 2.0350, average_loss: 1.8364
+baseline: Epoch [200], Iter [10040/20000] Loss: 1.9156, average_loss: 1.8465
+baseline: Epoch [200], Iter [10050/20000] Loss: 1.7423, average_loss: 1.8383
+baseline: TEST LOSS on 200th epoch: 2.785751338489923
+baseline: Epoch [201], Iter [10060/20000] Loss: 2.0093, average_loss: 1.7573
+baseline: Epoch [201], Iter [10070/20000] Loss: 2.1282, average_loss: 1.7749
+baseline: Epoch [201], Iter [10080/20000] Loss: 1.9553, average_loss: 1.7870
+baseline: Epoch [201], Iter [10090/20000] Loss: 1.8208, average_loss: 1.8129
+baseline: Epoch [201], Iter [10100/20000] Loss: 2.2010, average_loss: 1.8160
+baseline: TEST LOSS on 201th epoch: 2.782545051078913
+baseline: Epoch [202], Iter [10110/20000] Loss: 1.8962, average_loss: 1.7827
+baseline: Epoch [202], Iter [10120/20000] Loss: 1.7516, average_loss: 1.8064
+baseline: Epoch [202], Iter [10130/20000] Loss: 1.7525, average_loss: 1.7935
+baseline: Epoch [202], Iter [10140/20000] Loss: 1.8681, average_loss: 1.8057
+baseline: Epoch [202], Iter [10150/20000] Loss: 2.5261, average_loss: 1.8256
+baseline: TEST LOSS on 202th epoch: 2.840603065417812
+baseline: Epoch [203], Iter [10160/20000] Loss: 1.8297, average_loss: 1.7277
+baseline: Epoch [203], Iter [10170/20000] Loss: 1.6709, average_loss: 1.7052
+baseline: Epoch [203], Iter [10180/20000] Loss: 2.0437, average_loss: 1.7702
+baseline: Epoch [203], Iter [10190/20000] Loss: 1.6810, average_loss: 1.7896
+baseline: Epoch [203], Iter [10200/20000] Loss: 1.6686, average_loss: 1.7898
+baseline: TEST LOSS on 203th epoch: 2.85600343720264
+baseline: Epoch [204], Iter [10210/20000] Loss: 1.6601, average_loss: 1.8299
+baseline: Epoch [204], Iter [10220/20000] Loss: 1.8568, average_loss: 1.8034
+baseline: Epoch [204], Iter [10230/20000] Loss: 1.5962, average_loss: 1.8078
+baseline: Epoch [204], Iter [10240/20000] Loss: 2.2157, average_loss: 1.8184
+baseline: Epoch [204], Iter [10250/20000] Loss: 2.0619, average_loss: 1.8087
+baseline: TEST LOSS on 204th epoch: 2.8636563206120003
+baseline: Epoch [205], Iter [10260/20000] Loss: 1.8716, average_loss: 1.8132
+baseline: Epoch [205], Iter [10270/20000] Loss: 1.9004, average_loss: 1.7948
+baseline: Epoch [205], Iter [10280/20000] Loss: 1.6612, average_loss: 1.7905
+baseline: Epoch [205], Iter [10290/20000] Loss: 1.9924, average_loss: 1.8000
+baseline: Epoch [205], Iter [10300/20000] Loss: 1.6563, average_loss: 1.7886
+baseline: TEST LOSS on 205th epoch: 2.8238613565398283
+baseline: Epoch [206], Iter [10310/20000] Loss: 1.7468, average_loss: 1.6693
+baseline: Epoch [206], Iter [10320/20000] Loss: 1.5901, average_loss: 1.7177
+baseline: Epoch [206], Iter [10330/20000] Loss: 1.7361, average_loss: 1.7618
+baseline: Epoch [206], Iter [10340/20000] Loss: 1.8514, average_loss: 1.7855
+baseline: Epoch [206], Iter [10350/20000] Loss: 2.6064, average_loss: 1.8071
+baseline: TEST LOSS on 206th epoch: 2.905885578842338
+baseline: Epoch [207], Iter [10360/20000] Loss: 1.5148, average_loss: 1.8042
+baseline: Epoch [207], Iter [10370/20000] Loss: 1.7667, average_loss: 1.8504
+baseline: Epoch [207], Iter [10380/20000] Loss: 1.5093, average_loss: 1.8253
+baseline: Epoch [207], Iter [10390/20000] Loss: 1.7911, average_loss: 1.8300
+baseline: Epoch [207], Iter [10400/20000] Loss: 1.4439, average_loss: 1.8023
+baseline: TEST LOSS on 207th epoch: 2.857515169393032
+baseline: Epoch [208], Iter [10410/20000] Loss: 1.7575, average_loss: 1.7942
+baseline: Epoch [208], Iter [10420/20000] Loss: 2.0519, average_loss: 1.8316
+baseline: Epoch [208], Iter [10430/20000] Loss: 1.5927, average_loss: 1.8021
+baseline: Epoch [208], Iter [10440/20000] Loss: 1.5227, average_loss: 1.7802
+baseline: Epoch [208], Iter [10450/20000] Loss: 2.0076, average_loss: 1.7914
+baseline: TEST LOSS on 208th epoch: 2.7708976833827634
+baseline: Epoch [209], Iter [10460/20000] Loss: 1.8704, average_loss: 1.9689
+baseline: Epoch [209], Iter [10470/20000] Loss: 1.5025, average_loss: 1.8610
+baseline: Epoch [209], Iter [10480/20000] Loss: 1.7744, average_loss: 1.7970
+baseline: Epoch [209], Iter [10490/20000] Loss: 2.0551, average_loss: 1.7939
+baseline: Epoch [209], Iter [10500/20000] Loss: 1.7027, average_loss: 1.7954
+baseline: TEST LOSS on 209th epoch: 2.8939185166213126
+baseline: Epoch [210], Iter [10510/20000] Loss: 1.5861, average_loss: 1.7542
+baseline: Epoch [210], Iter [10520/20000] Loss: 1.6305, average_loss: 1.7380
+baseline: Epoch [210], Iter [10530/20000] Loss: 1.8433, average_loss: 1.7587
+baseline: Epoch [210], Iter [10540/20000] Loss: 1.8535, average_loss: 1.7814
+baseline: Epoch [210], Iter [10550/20000] Loss: 1.8334, average_loss: 1.8022
+baseline: TEST LOSS on 210th epoch: 2.871466849010654
+baseline: Epoch [211], Iter [10560/20000] Loss: 1.8379, average_loss: 1.8340
+baseline: Epoch [211], Iter [10570/20000] Loss: 1.9337, average_loss: 1.8291
+baseline: Epoch [211], Iter [10580/20000] Loss: 1.8859, average_loss: 1.8086
+baseline: Epoch [211], Iter [10590/20000] Loss: 1.6823, average_loss: 1.8076
+baseline: Epoch [211], Iter [10600/20000] Loss: 1.8792, average_loss: 1.8032
+baseline: TEST LOSS on 211th epoch: 2.8053096934742885
+baseline: Epoch [212], Iter [10610/20000] Loss: 1.6574, average_loss: 1.7345
+baseline: Epoch [212], Iter [10620/20000] Loss: 1.6557, average_loss: 1.7333
+baseline: Epoch [212], Iter [10630/20000] Loss: 1.9990, average_loss: 1.7548
+baseline: Epoch [212], Iter [10640/20000] Loss: 1.7198, average_loss: 1.7795
+baseline: Epoch [212], Iter [10650/20000] Loss: 1.7865, average_loss: 1.7980
+baseline: TEST LOSS on 212th epoch: 2.9666668358016817
+baseline: Epoch [213], Iter [10660/20000] Loss: 2.0368, average_loss: 1.8267
+baseline: Epoch [213], Iter [10670/20000] Loss: 2.0876, average_loss: 1.8150
+baseline: Epoch [213], Iter [10680/20000] Loss: 1.6640, average_loss: 1.8170
+baseline: Epoch [213], Iter [10690/20000] Loss: 1.6691, average_loss: 1.8003
+baseline: Epoch [213], Iter [10700/20000] Loss: 1.8641, average_loss: 1.8059
+baseline: TEST LOSS on 213th epoch: 2.90975729843163
+baseline: Epoch [214], Iter [10710/20000] Loss: 2.0459, average_loss: 1.7927
+baseline: Epoch [214], Iter [10720/20000] Loss: 1.5878, average_loss: 1.7602
+baseline: Epoch [214], Iter [10730/20000] Loss: 1.7599, average_loss: 1.7834
+baseline: Epoch [214], Iter [10740/20000] Loss: 1.6313, average_loss: 1.7762
+baseline: Epoch [214], Iter [10750/20000] Loss: 1.7311, average_loss: 1.7829
+baseline: TEST LOSS on 214th epoch: 2.875550591435272
+baseline: Epoch [215], Iter [10760/20000] Loss: 1.9544, average_loss: 1.7380
+baseline: Epoch [215], Iter [10770/20000] Loss: 1.7243, average_loss: 1.7796
+baseline: Epoch [215], Iter [10780/20000] Loss: 1.6603, average_loss: 1.7973
+baseline: Epoch [215], Iter [10790/20000] Loss: 2.0000, average_loss: 1.7834
+baseline: Epoch [215], Iter [10800/20000] Loss: 1.9078, average_loss: 1.7740
+baseline: TEST LOSS on 215th epoch: 2.8293796094185715
+baseline: Epoch [216], Iter [10810/20000] Loss: 1.9291, average_loss: 1.8086
+baseline: Epoch [216], Iter [10820/20000] Loss: 1.7585, average_loss: 1.7566
+baseline: Epoch [216], Iter [10830/20000] Loss: 1.8374, average_loss: 1.7505
+baseline: Epoch [216], Iter [10840/20000] Loss: 1.6270, average_loss: 1.7601
+baseline: Epoch [216], Iter [10850/20000] Loss: 1.7702, average_loss: 1.7612
+baseline: TEST LOSS on 216th epoch: 2.828966635447394
+baseline: Epoch [217], Iter [10860/20000] Loss: 1.9666, average_loss: 1.7557
+baseline: Epoch [217], Iter [10870/20000] Loss: 1.8681, average_loss: 1.7765
+baseline: Epoch [217], Iter [10880/20000] Loss: 1.7336, average_loss: 1.7785
+baseline: Epoch [217], Iter [10890/20000] Loss: 1.8774, average_loss: 1.7824
+baseline: Epoch [217], Iter [10900/20000] Loss: 1.7836, average_loss: 1.7842
+baseline: TEST LOSS on 217th epoch: 2.893499505264679
+baseline: Epoch [218], Iter [10910/20000] Loss: 1.9064, average_loss: 1.8443
+baseline: Epoch [218], Iter [10920/20000] Loss: 1.7534, average_loss: 1.7505
+baseline: Epoch [218], Iter [10930/20000] Loss: 1.7500, average_loss: 1.7586
+baseline: Epoch [218], Iter [10940/20000] Loss: 1.6102, average_loss: 1.7578
+baseline: Epoch [218], Iter [10950/20000] Loss: 1.3414, average_loss: 1.7573
+baseline: TEST LOSS on 218th epoch: 2.798013875699554
+baseline: Epoch [219], Iter [10960/20000] Loss: 1.8389, average_loss: 1.7740
+baseline: Epoch [219], Iter [10970/20000] Loss: 1.4090, average_loss: 1.7834
+baseline: Epoch [219], Iter [10980/20000] Loss: 1.6084, average_loss: 1.7778
+baseline: Epoch [219], Iter [10990/20000] Loss: 1.7884, average_loss: 1.7599
+baseline: Epoch [219], Iter [11000/20000] Loss: 1.8599, average_loss: 1.7637
+baseline: TEST LOSS on 219th epoch: 2.828761889482492
+baseline: Epoch [220], Iter [11010/20000] Loss: 1.4489, average_loss: 1.6356
+baseline: Epoch [220], Iter [11020/20000] Loss: 1.6467, average_loss: 1.6506
+baseline: Epoch [220], Iter [11030/20000] Loss: 1.5952, average_loss: 1.6779
+baseline: Epoch [220], Iter [11040/20000] Loss: 1.5965, average_loss: 1.6955
+baseline: Epoch [220], Iter [11050/20000] Loss: 1.7242, average_loss: 1.7167
+baseline: TEST LOSS on 220th epoch: 2.8371981936492685
+baseline: Epoch [221], Iter [11060/20000] Loss: 1.7807, average_loss: 1.7620
+baseline: Epoch [221], Iter [11070/20000] Loss: 2.0152, average_loss: 1.7275
+baseline: Epoch [221], Iter [11080/20000] Loss: 1.8225, average_loss: 1.7380
+baseline: Epoch [221], Iter [11090/20000] Loss: 1.5378, average_loss: 1.7370
+baseline: Epoch [221], Iter [11100/20000] Loss: 1.7751, average_loss: 1.7410
+baseline: TEST LOSS on 221th epoch: 2.8519727965013697
+baseline: Epoch [222], Iter [11110/20000] Loss: 1.7248, average_loss: 1.7707
+baseline: Epoch [222], Iter [11120/20000] Loss: 1.9145, average_loss: 1.7905
+baseline: Epoch [222], Iter [11130/20000] Loss: 1.6436, average_loss: 1.7756
+baseline: Epoch [222], Iter [11140/20000] Loss: 1.8051, average_loss: 1.7600
+baseline: Epoch [222], Iter [11150/20000] Loss: 1.7408, average_loss: 1.7358
+baseline: TEST LOSS on 222th epoch: 2.891491148449959
+baseline: Epoch [223], Iter [11160/20000] Loss: 1.8031, average_loss: 1.7229
+baseline: Epoch [223], Iter [11170/20000] Loss: 1.4542, average_loss: 1.7094
+baseline: Epoch [223], Iter [11180/20000] Loss: 1.6944, average_loss: 1.6982
+baseline: Epoch [223], Iter [11190/20000] Loss: 1.6545, average_loss: 1.7196
+baseline: Epoch [223], Iter [11200/20000] Loss: 1.6778, average_loss: 1.7151
+baseline: TEST LOSS on 223th epoch: 2.869125033008214
+baseline: Epoch [224], Iter [11210/20000] Loss: 1.7123, average_loss: 1.7610
+baseline: Epoch [224], Iter [11220/20000] Loss: 1.5454, average_loss: 1.7253
+baseline: Epoch [224], Iter [11230/20000] Loss: 1.7209, average_loss: 1.7385
+baseline: Epoch [224], Iter [11240/20000] Loss: 1.7262, average_loss: 1.7261
+baseline: Epoch [224], Iter [11250/20000] Loss: 1.5109, average_loss: 1.7219
+baseline: TEST LOSS on 224th epoch: 2.870014003839697
+baseline: Epoch [225], Iter [11260/20000] Loss: 1.5840, average_loss: 1.6567
+baseline: Epoch [225], Iter [11270/20000] Loss: 1.7014, average_loss: 1.6871
+baseline: Epoch [225], Iter [11280/20000] Loss: 1.7092, average_loss: 1.7114
+baseline: Epoch [225], Iter [11290/20000] Loss: 1.6057, average_loss: 1.7107
+baseline: Epoch [225], Iter [11300/20000] Loss: 1.7956, average_loss: 1.7098
+baseline: TEST LOSS on 225th epoch: 2.838494862802896
+baseline: Epoch [226], Iter [11310/20000] Loss: 1.8580, average_loss: 1.6203
+baseline: Epoch [226], Iter [11320/20000] Loss: 1.7120, average_loss: 1.6615
+baseline: Epoch [226], Iter [11330/20000] Loss: 1.6642, average_loss: 1.6904
+baseline: Epoch [226], Iter [11340/20000] Loss: 1.6263, average_loss: 1.6833
+baseline: Epoch [226], Iter [11350/20000] Loss: 1.5754, average_loss: 1.6950
+baseline: TEST LOSS on 226th epoch: 2.8675158783930157
+baseline: Epoch [227], Iter [11360/20000] Loss: 1.8992, average_loss: 1.7458
+baseline: Epoch [227], Iter [11370/20000] Loss: 1.6163, average_loss: 1.7379
+baseline: Epoch [227], Iter [11380/20000] Loss: 1.5511, average_loss: 1.7327
+baseline: Epoch [227], Iter [11390/20000] Loss: 2.5828, average_loss: 1.7262
+baseline: Epoch [227], Iter [11400/20000] Loss: 1.4921, average_loss: 1.7335
+baseline: TEST LOSS on 227th epoch: 2.8953908007443863
+baseline: Epoch [228], Iter [11410/20000] Loss: 1.7345, average_loss: 1.6654
+baseline: Epoch [228], Iter [11420/20000] Loss: 1.6210, average_loss: 1.7201
+baseline: Epoch [228], Iter [11430/20000] Loss: 2.1189, average_loss: 1.7423
+baseline: Epoch [228], Iter [11440/20000] Loss: 1.4768, average_loss: 1.7447
+baseline: Epoch [228], Iter [11450/20000] Loss: 2.1512, average_loss: 1.7535
+baseline: TEST LOSS on 228th epoch: 2.8658103367786523
+baseline: Epoch [229], Iter [11460/20000] Loss: 1.6254, average_loss: 1.6972
+baseline: Epoch [229], Iter [11470/20000] Loss: 1.8524, average_loss: 1.7080
+baseline: Epoch [229], Iter [11480/20000] Loss: 1.5869, average_loss: 1.6785
+baseline: Epoch [229], Iter [11490/20000] Loss: 2.0346, average_loss: 1.7225
+baseline: Epoch [229], Iter [11500/20000] Loss: 1.4076, average_loss: 1.7131
+baseline: TEST LOSS on 229th epoch: 2.865008423270071
+baseline: Epoch [230], Iter [11510/20000] Loss: 1.6464, average_loss: 1.6797
+baseline: Epoch [230], Iter [11520/20000] Loss: 1.6547, average_loss: 1.7031
+baseline: Epoch [230], Iter [11530/20000] Loss: 1.6346, average_loss: 1.6878
+baseline: Epoch [230], Iter [11540/20000] Loss: 1.4742, average_loss: 1.6766
+baseline: Epoch [230], Iter [11550/20000] Loss: 1.7578, average_loss: 1.6682
+baseline: TEST LOSS on 230th epoch: 2.8355746022240464
+baseline: Epoch [231], Iter [11560/20000] Loss: 1.7831, average_loss: 1.7842
+baseline: Epoch [231], Iter [11570/20000] Loss: 1.5176, average_loss: 1.7020
+baseline: Epoch [231], Iter [11580/20000] Loss: 1.7415, average_loss: 1.6956
+baseline: Epoch [231], Iter [11590/20000] Loss: 1.7368, average_loss: 1.6968
+baseline: Epoch [231], Iter [11600/20000] Loss: 1.6203, average_loss: 1.6852
+baseline: TEST LOSS on 231th epoch: 2.879558991948399
+baseline: Epoch [232], Iter [11610/20000] Loss: 1.6299, average_loss: 1.7031
+baseline: Epoch [232], Iter [11620/20000] Loss: 1.5368, average_loss: 1.6868
+baseline: Epoch [232], Iter [11630/20000] Loss: 1.9160, average_loss: 1.7295
+baseline: Epoch [232], Iter [11640/20000] Loss: 1.8738, average_loss: 1.7398
+baseline: Epoch [232], Iter [11650/20000] Loss: 2.6367, average_loss: 1.7506
+baseline: TEST LOSS on 232th epoch: 2.8494163959398184
+baseline: Epoch [233], Iter [11660/20000] Loss: 2.3410, average_loss: 1.8451
+baseline: Epoch [233], Iter [11670/20000] Loss: 1.5091, average_loss: 1.7861
+baseline: Epoch [233], Iter [11680/20000] Loss: 1.6919, average_loss: 1.7365
+baseline: Epoch [233], Iter [11690/20000] Loss: 1.7175, average_loss: 1.7168
+baseline: Epoch [233], Iter [11700/20000] Loss: 2.0565, average_loss: 1.7336
+baseline: TEST LOSS on 233th epoch: 2.854116850125316
+baseline: Epoch [234], Iter [11710/20000] Loss: 1.7201, average_loss: 1.6726
+baseline: Epoch [234], Iter [11720/20000] Loss: 1.6950, average_loss: 1.6720
+baseline: Epoch [234], Iter [11730/20000] Loss: 1.8178, average_loss: 1.7005
+baseline: Epoch [234], Iter [11740/20000] Loss: 1.3649, average_loss: 1.6961
+baseline: Epoch [234], Iter [11750/20000] Loss: 1.6794, average_loss: 1.6979
+baseline: TEST LOSS on 234th epoch: 2.8812356428997963
+baseline: Epoch [235], Iter [11760/20000] Loss: 1.7473, average_loss: 1.7496
+baseline: Epoch [235], Iter [11770/20000] Loss: 1.5962, average_loss: 1.7294
+baseline: Epoch [235], Iter [11780/20000] Loss: 1.9926, average_loss: 1.7266
+baseline: Epoch [235], Iter [11790/20000] Loss: 1.7826, average_loss: 1.7002
+baseline: Epoch [235], Iter [11800/20000] Loss: 1.8983, average_loss: 1.7044
+baseline: TEST LOSS on 235th epoch: 2.9494300971337415
+baseline: Epoch [236], Iter [11810/20000] Loss: 1.6560, average_loss: 1.7049
+baseline: Epoch [236], Iter [11820/20000] Loss: 1.4734, average_loss: 1.7124
+baseline: Epoch [236], Iter [11830/20000] Loss: 1.6625, average_loss: 1.6909
+baseline: Epoch [236], Iter [11840/20000] Loss: 1.5420, average_loss: 1.6970
+baseline: Epoch [236], Iter [11850/20000] Loss: 1.5538, average_loss: 1.7006
+baseline: TEST LOSS on 236th epoch: 2.8695951380314084
+baseline: Epoch [237], Iter [11860/20000] Loss: 1.7853, average_loss: 1.7377
+baseline: Epoch [237], Iter [11870/20000] Loss: 1.6041, average_loss: 1.6821
+baseline: Epoch [237], Iter [11880/20000] Loss: 1.5513, average_loss: 1.6709
+baseline: Epoch [237], Iter [11890/20000] Loss: 2.0580, average_loss: 1.6803
+baseline: Epoch [237], Iter [11900/20000] Loss: 1.7945, average_loss: 1.6963
+baseline: TEST LOSS on 237th epoch: 2.8818001019845316
+baseline: Epoch [238], Iter [11910/20000] Loss: 1.4910, average_loss: 1.6002
+baseline: Epoch [238], Iter [11920/20000] Loss: 1.9570, average_loss: 1.6601
+baseline: Epoch [238], Iter [11930/20000] Loss: 1.5080, average_loss: 1.6618
+baseline: Epoch [238], Iter [11940/20000] Loss: 1.7176, average_loss: 1.6600
+baseline: Epoch [238], Iter [11950/20000] Loss: 1.7569, average_loss: 1.6651
+baseline: TEST LOSS on 238th epoch: 2.8433983355122603
+baseline: Epoch [239], Iter [11960/20000] Loss: 1.8051, average_loss: 1.6484
+baseline: Epoch [239], Iter [11970/20000] Loss: 1.1341, average_loss: 1.6722
+baseline: Epoch [239], Iter [11980/20000] Loss: 1.4916, average_loss: 1.6933
+baseline: Epoch [239], Iter [11990/20000] Loss: 1.8455, average_loss: 1.6950
+baseline: Epoch [239], Iter [12000/20000] Loss: 1.9204, average_loss: 1.6978
+baseline: TEST LOSS on 239th epoch: 2.7870497062847885
+baseline: Epoch [240], Iter [12010/20000] Loss: 1.5779, average_loss: 1.6044
+baseline: Epoch [240], Iter [12020/20000] Loss: 1.3478, average_loss: 1.6493
+baseline: Epoch [240], Iter [12030/20000] Loss: 1.3960, average_loss: 1.6535
+baseline: Epoch [240], Iter [12040/20000] Loss: 1.5468, average_loss: 1.6474
+baseline: Epoch [240], Iter [12050/20000] Loss: 1.5283, average_loss: 1.6483
+baseline: TEST LOSS on 240th epoch: 2.7955809332179733
+baseline: Epoch [241], Iter [12060/20000] Loss: 1.5619, average_loss: 1.6149
+baseline: Epoch [241], Iter [12070/20000] Loss: 1.5747, average_loss: 1.6107
+baseline: Epoch [241], Iter [12080/20000] Loss: 1.7375, average_loss: 1.5863
+baseline: Epoch [241], Iter [12090/20000] Loss: 1.4661, average_loss: 1.5901
+baseline: Epoch [241], Iter [12100/20000] Loss: 1.6120, average_loss: 1.5977
+baseline: TEST LOSS on 241th epoch: 2.8140628089963116
+baseline: Epoch [242], Iter [12110/20000] Loss: 1.7781, average_loss: 1.5855
+baseline: Epoch [242], Iter [12120/20000] Loss: 1.5334, average_loss: 1.6085
+baseline: Epoch [242], Iter [12130/20000] Loss: 1.6823, average_loss: 1.6081
+baseline: Epoch [242], Iter [12140/20000] Loss: 1.5710, average_loss: 1.6252
+baseline: Epoch [242], Iter [12150/20000] Loss: 1.4067, average_loss: 1.6398
+baseline: TEST LOSS on 242th epoch: 2.819830149503294
+baseline: Epoch [243], Iter [12160/20000] Loss: 1.6528, average_loss: 1.6477
+baseline: Epoch [243], Iter [12170/20000] Loss: 1.4583, average_loss: 1.6081
+baseline: Epoch [243], Iter [12180/20000] Loss: 1.5454, average_loss: 1.5850
+baseline: Epoch [243], Iter [12190/20000] Loss: 1.3799, average_loss: 1.5981
+baseline: Epoch [243], Iter [12200/20000] Loss: 1.6815, average_loss: 1.5792
+baseline: TEST LOSS on 243th epoch: 2.78799045085907
+baseline: Epoch [244], Iter [12210/20000] Loss: 1.8184, average_loss: 1.5970
+baseline: Epoch [244], Iter [12220/20000] Loss: 1.4470, average_loss: 1.5899
+baseline: Epoch [244], Iter [12230/20000] Loss: 1.5117, average_loss: 1.5598
+baseline: Epoch [244], Iter [12240/20000] Loss: 1.3711, average_loss: 1.5583
+baseline: Epoch [244], Iter [12250/20000] Loss: 1.4634, average_loss: 1.5565
+baseline: TEST LOSS on 244th epoch: 2.8432977680766256
+baseline: Epoch [245], Iter [12260/20000] Loss: 1.0972, average_loss: 1.5537
+baseline: Epoch [245], Iter [12270/20000] Loss: 1.5955, average_loss: 1.5667
+baseline: Epoch [245], Iter [12280/20000] Loss: 1.8671, average_loss: 1.5909
+baseline: Epoch [245], Iter [12290/20000] Loss: 1.5433, average_loss: 1.5721
+baseline: Epoch [245], Iter [12300/20000] Loss: 1.7953, average_loss: 1.5758
+baseline: TEST LOSS on 245th epoch: 2.857605773647991
+baseline: Epoch [246], Iter [12310/20000] Loss: 1.6429, average_loss: 1.5242
+baseline: Epoch [246], Iter [12320/20000] Loss: 2.2531, average_loss: 1.6295
+baseline: Epoch [246], Iter [12330/20000] Loss: 1.4258, average_loss: 1.5893
+baseline: Epoch [246], Iter [12340/20000] Loss: 1.4495, average_loss: 1.5952
+baseline: Epoch [246], Iter [12350/20000] Loss: 1.6049, average_loss: 1.5895
+baseline: TEST LOSS on 246th epoch: 2.80351960859532
+baseline: Epoch [247], Iter [12360/20000] Loss: 1.4348, average_loss: 1.5255
+baseline: Epoch [247], Iter [12370/20000] Loss: 1.5340, average_loss: 1.5542
+baseline: Epoch [247], Iter [12380/20000] Loss: 1.5895, average_loss: 1.5538
+baseline: Epoch [247], Iter [12390/20000] Loss: 1.6689, average_loss: 1.5545
+baseline: Epoch [247], Iter [12400/20000] Loss: 1.6219, average_loss: 1.5622
+baseline: TEST LOSS on 247th epoch: 2.8313388191961004
+baseline: Epoch [248], Iter [12410/20000] Loss: 1.6177, average_loss: 1.5046
+baseline: Epoch [248], Iter [12420/20000] Loss: 1.4998, average_loss: 1.5485
+baseline: Epoch [248], Iter [12430/20000] Loss: 1.6908, average_loss: 1.5658
+baseline: Epoch [248], Iter [12440/20000] Loss: 1.7684, average_loss: 1.5602
+baseline: Epoch [248], Iter [12450/20000] Loss: 1.5462, average_loss: 1.5673
+baseline: TEST LOSS on 248th epoch: 2.829727488737952
+baseline: Epoch [249], Iter [12460/20000] Loss: 1.7225, average_loss: 1.6221
+baseline: Epoch [249], Iter [12470/20000] Loss: 1.5884, average_loss: 1.5663
+baseline: Epoch [249], Iter [12480/20000] Loss: 1.6189, average_loss: 1.5647
+baseline: Epoch [249], Iter [12490/20000] Loss: 1.7366, average_loss: 1.5619
+baseline: Epoch [249], Iter [12500/20000] Loss: 1.6922, average_loss: 1.5652
+baseline: TEST LOSS on 249th epoch: 2.8425636298794994
+baseline: Epoch [250], Iter [12510/20000] Loss: 1.5936, average_loss: 1.5407
+baseline: Epoch [250], Iter [12520/20000] Loss: 1.5204, average_loss: 1.5567
+baseline: Epoch [250], Iter [12530/20000] Loss: 1.6498, average_loss: 1.5545
+baseline: Epoch [250], Iter [12540/20000] Loss: 1.7910, average_loss: 1.5550
+baseline: Epoch [250], Iter [12550/20000] Loss: 1.6140, average_loss: 1.5603
+baseline: TEST LOSS on 250th epoch: 2.816476064446505
+baseline: Epoch [251], Iter [12560/20000] Loss: 1.5115, average_loss: 1.4984
+baseline: Epoch [251], Iter [12570/20000] Loss: 1.4214, average_loss: 1.5609
+baseline: Epoch [251], Iter [12580/20000] Loss: 1.4673, average_loss: 1.5328
+baseline: Epoch [251], Iter [12590/20000] Loss: 1.7165, average_loss: 1.5526
+baseline: Epoch [251], Iter [12600/20000] Loss: 2.1118, average_loss: 1.5641
+baseline: TEST LOSS on 251th epoch: 2.8763690623668356
+baseline: Epoch [252], Iter [12610/20000] Loss: 1.4254, average_loss: 1.5146
+baseline: Epoch [252], Iter [12620/20000] Loss: 1.6316, average_loss: 1.5640
+baseline: Epoch [252], Iter [12630/20000] Loss: 1.2880, average_loss: 1.5750
+baseline: Epoch [252], Iter [12640/20000] Loss: 1.4370, average_loss: 1.5658
+baseline: Epoch [252], Iter [12650/20000] Loss: 1.5756, average_loss: 1.5720
+baseline: TEST LOSS on 252th epoch: 2.9148493398220165
+baseline: Epoch [253], Iter [12660/20000] Loss: 1.4939, average_loss: 1.5505
+baseline: Epoch [253], Iter [12670/20000] Loss: 1.6152, average_loss: 1.5796
+baseline: Epoch [253], Iter [12680/20000] Loss: 1.4103, average_loss: 1.5561
+baseline: Epoch [253], Iter [12690/20000] Loss: 1.6340, average_loss: 1.5688
+baseline: Epoch [253], Iter [12700/20000] Loss: 1.6574, average_loss: 1.5609
+baseline: TEST LOSS on 253th epoch: 2.811455258171128
+baseline: Epoch [254], Iter [12710/20000] Loss: 1.7159, average_loss: 1.6133
+baseline: Epoch [254], Iter [12720/20000] Loss: 1.3861, average_loss: 1.5965
+baseline: Epoch [254], Iter [12730/20000] Loss: 1.7164, average_loss: 1.5781
+baseline: Epoch [254], Iter [12740/20000] Loss: 1.5073, average_loss: 1.5744
+baseline: Epoch [254], Iter [12750/20000] Loss: 1.6433, average_loss: 1.5666
+baseline: TEST LOSS on 254th epoch: 2.8422559003035226
+baseline: Epoch [255], Iter [12760/20000] Loss: 1.8157, average_loss: 1.5275
+baseline: Epoch [255], Iter [12770/20000] Loss: 1.3982, average_loss: 1.4811
+baseline: Epoch [255], Iter [12780/20000] Loss: 1.7454, average_loss: 1.5263
+baseline: Epoch [255], Iter [12790/20000] Loss: 1.7668, average_loss: 1.5386
+baseline: Epoch [255], Iter [12800/20000] Loss: 1.6524, average_loss: 1.5532
+baseline: TEST LOSS on 255th epoch: 2.886719278968438
+baseline: Epoch [256], Iter [12810/20000] Loss: 1.5082, average_loss: 1.5359
+baseline: Epoch [256], Iter [12820/20000] Loss: 1.4204, average_loss: 1.5134
+baseline: Epoch [256], Iter [12830/20000] Loss: 1.3063, average_loss: 1.5397
+baseline: Epoch [256], Iter [12840/20000] Loss: 1.6810, average_loss: 1.5520
+baseline: Epoch [256], Iter [12850/20000] Loss: 1.6144, average_loss: 1.5544
+baseline: TEST LOSS on 256th epoch: 2.898714662691869
+baseline: Epoch [257], Iter [12860/20000] Loss: 1.2159, average_loss: 1.5585
+baseline: Epoch [257], Iter [12870/20000] Loss: 1.5979, average_loss: 1.5536
+baseline: Epoch [257], Iter [12880/20000] Loss: 1.9646, average_loss: 1.5723
+baseline: Epoch [257], Iter [12890/20000] Loss: 1.5269, average_loss: 1.5695
+baseline: Epoch [257], Iter [12900/20000] Loss: 1.3609, average_loss: 1.5747
+baseline: TEST LOSS on 257th epoch: 2.797080110974997
+baseline: Epoch [258], Iter [12910/20000] Loss: 1.5194, average_loss: 1.5174
+baseline: Epoch [258], Iter [12920/20000] Loss: 1.2456, average_loss: 1.4977
+baseline: Epoch [258], Iter [12930/20000] Loss: 1.3917, average_loss: 1.5136
+baseline: Epoch [258], Iter [12940/20000] Loss: 1.4497, average_loss: 1.5361
+baseline: Epoch [258], Iter [12950/20000] Loss: 1.6035, average_loss: 1.5443
+baseline: TEST LOSS on 258th epoch: 2.838389618316557
+baseline: Epoch [259], Iter [12960/20000] Loss: 1.3806, average_loss: 1.4573
+baseline: Epoch [259], Iter [12970/20000] Loss: 1.4616, average_loss: 1.4866
+baseline: Epoch [259], Iter [12980/20000] Loss: 1.5153, average_loss: 1.4878
+baseline: Epoch [259], Iter [12990/20000] Loss: 1.6321, average_loss: 1.5212
+baseline: Epoch [259], Iter [13000/20000] Loss: 1.4156, average_loss: 1.5354
+baseline: TEST LOSS on 259th epoch: 2.8472415989874333
+baseline: Epoch [260], Iter [13010/20000] Loss: 1.7500, average_loss: 1.6052
+baseline: Epoch [260], Iter [13020/20000] Loss: 1.6880, average_loss: 1.5691
+baseline: Epoch [260], Iter [13030/20000] Loss: 1.5531, average_loss: 1.5520
+baseline: Epoch [260], Iter [13040/20000] Loss: 1.5001, average_loss: 1.5383
+baseline: Epoch [260], Iter [13050/20000] Loss: 1.3781, average_loss: 1.5382
+baseline: TEST LOSS on 260th epoch: 2.879265589633848
+baseline: Epoch [261], Iter [13060/20000] Loss: 1.7236, average_loss: 1.5001
+baseline: Epoch [261], Iter [13070/20000] Loss: 1.5886, average_loss: 1.4649
+baseline: Epoch [261], Iter [13080/20000] Loss: 1.3645, average_loss: 1.4787
+baseline: Epoch [261], Iter [13090/20000] Loss: 1.4502, average_loss: 1.4807
+baseline: Epoch [261], Iter [13100/20000] Loss: 1.4936, average_loss: 1.4968
+baseline: TEST LOSS on 261th epoch: 2.818553248220992
+baseline: Epoch [262], Iter [13110/20000] Loss: 1.5342, average_loss: 1.4603
+baseline: Epoch [262], Iter [13120/20000] Loss: 1.2833, average_loss: 1.4791
+baseline: Epoch [262], Iter [13130/20000] Loss: 1.5199, average_loss: 1.4980
+baseline: Epoch [262], Iter [13140/20000] Loss: 1.5574, average_loss: 1.5056
+baseline: Epoch [262], Iter [13150/20000] Loss: 1.3807, average_loss: 1.5126
+baseline: TEST LOSS on 262th epoch: 2.8139711503588827
+baseline: Epoch [263], Iter [13160/20000] Loss: 1.8777, average_loss: 1.4755
+baseline: Epoch [263], Iter [13170/20000] Loss: 1.6517, average_loss: 1.5351
+baseline: Epoch [263], Iter [13180/20000] Loss: 1.7469, average_loss: 1.5029
+baseline: Epoch [263], Iter [13190/20000] Loss: 1.5406, average_loss: 1.5009
+baseline: Epoch [263], Iter [13200/20000] Loss: 1.7186, average_loss: 1.5047
+baseline: TEST LOSS on 263th epoch: 2.802320867412316
+baseline: Epoch [264], Iter [13210/20000] Loss: 1.6591, average_loss: 1.5290
+baseline: Epoch [264], Iter [13220/20000] Loss: 1.3367, average_loss: 1.5207
+baseline: Epoch [264], Iter [13230/20000] Loss: 1.5658, average_loss: 1.5001
+baseline: Epoch [264], Iter [13240/20000] Loss: 1.4498, average_loss: 1.5081
+baseline: Epoch [264], Iter [13250/20000] Loss: 1.6749, average_loss: 1.5179
+baseline: TEST LOSS on 264th epoch: 2.8188854554377563
+baseline: Epoch [265], Iter [13260/20000] Loss: 1.4636, average_loss: 1.5291
+baseline: Epoch [265], Iter [13270/20000] Loss: 1.4531, average_loss: 1.5519
+baseline: Epoch [265], Iter [13280/20000] Loss: 1.5479, average_loss: 1.5317
+baseline: Epoch [265], Iter [13290/20000] Loss: 1.5006, average_loss: 1.5152
+baseline: Epoch [265], Iter [13300/20000] Loss: 1.3893, average_loss: 1.5110
+baseline: TEST LOSS on 265th epoch: 2.778072767301437
+baseline: Epoch [266], Iter [13310/20000] Loss: 1.3352, average_loss: 1.4553
+baseline: Epoch [266], Iter [13320/20000] Loss: 1.3311, average_loss: 1.4844
+baseline: Epoch [266], Iter [13330/20000] Loss: 1.1766, average_loss: 1.4956
+baseline: Epoch [266], Iter [13340/20000] Loss: 1.4620, average_loss: 1.4911
+baseline: Epoch [266], Iter [13350/20000] Loss: 1.4886, average_loss: 1.4932
+baseline: TEST LOSS on 266th epoch: 2.7896816311261703
+baseline: Epoch [267], Iter [13360/20000] Loss: 1.7443, average_loss: 1.4530
+baseline: Epoch [267], Iter [13370/20000] Loss: 1.3169, average_loss: 1.4884
+baseline: Epoch [267], Iter [13380/20000] Loss: 1.9561, average_loss: 1.5012
+baseline: Epoch [267], Iter [13390/20000] Loss: 1.6604, average_loss: 1.4935
+baseline: Epoch [267], Iter [13400/20000] Loss: 1.4807, average_loss: 1.4970
+baseline: TEST LOSS on 267th epoch: 2.835045147197327
+baseline: Epoch [268], Iter [13410/20000] Loss: 1.4429, average_loss: 1.4040
+baseline: Epoch [268], Iter [13420/20000] Loss: 1.5882, average_loss: 1.4890
+baseline: Epoch [268], Iter [13430/20000] Loss: 1.3179, average_loss: 1.5058
+baseline: Epoch [268], Iter [13440/20000] Loss: 1.3640, average_loss: 1.5157
+baseline: Epoch [268], Iter [13450/20000] Loss: 1.6188, average_loss: 1.5306
+baseline: TEST LOSS on 268th epoch: 2.8379496531931268
+baseline: Epoch [269], Iter [13460/20000] Loss: 1.4697, average_loss: 1.5509
+baseline: Epoch [269], Iter [13470/20000] Loss: 1.6834, average_loss: 1.5516
+baseline: Epoch [269], Iter [13480/20000] Loss: 1.3505, average_loss: 1.5158
+baseline: Epoch [269], Iter [13490/20000] Loss: 1.5472, average_loss: 1.5136
+baseline: Epoch [269], Iter [13500/20000] Loss: 1.4909, average_loss: 1.5067
+baseline: TEST LOSS on 269th epoch: 2.8168666953340584
+baseline: Epoch [270], Iter [13510/20000] Loss: 1.3430, average_loss: 1.5270
+baseline: Epoch [270], Iter [13520/20000] Loss: 1.2943, average_loss: 1.5201
+baseline: Epoch [270], Iter [13530/20000] Loss: 1.4341, average_loss: 1.5095
+baseline: Epoch [270], Iter [13540/20000] Loss: 1.4853, average_loss: 1.5086
+baseline: Epoch [270], Iter [13550/20000] Loss: 1.6959, average_loss: 1.5190
+baseline: TEST LOSS on 270th epoch: 2.8339708822036007
+baseline: Epoch [271], Iter [13560/20000] Loss: 1.5479, average_loss: 1.5076
+baseline: Epoch [271], Iter [13570/20000] Loss: 1.4883, average_loss: 1.5041
+baseline: Epoch [271], Iter [13580/20000] Loss: 1.6242, average_loss: 1.4920
+baseline: Epoch [271], Iter [13590/20000] Loss: 2.1278, average_loss: 1.5071
+baseline: Epoch [271], Iter [13600/20000] Loss: 1.6200, average_loss: 1.5183
+baseline: TEST LOSS on 271th epoch: 2.8637718876385176
+baseline: Epoch [272], Iter [13610/20000] Loss: 1.4167, average_loss: 1.4191
+baseline: Epoch [272], Iter [13620/20000] Loss: 1.2774, average_loss: 1.4207
+baseline: Epoch [272], Iter [13630/20000] Loss: 1.3382, average_loss: 1.4445
+baseline: Epoch [272], Iter [13640/20000] Loss: 1.6438, average_loss: 1.4473
+baseline: Epoch [272], Iter [13650/20000] Loss: 1.4734, average_loss: 1.4602
+baseline: TEST LOSS on 272th epoch: 2.838503106289318
+baseline: Epoch [273], Iter [13660/20000] Loss: 1.6096, average_loss: 1.5083
+baseline: Epoch [273], Iter [13670/20000] Loss: 1.4181, average_loss: 1.5123
+baseline: Epoch [273], Iter [13680/20000] Loss: 1.6309, average_loss: 1.5104
+baseline: Epoch [273], Iter [13690/20000] Loss: 1.2959, average_loss: 1.5011
+baseline: Epoch [273], Iter [13700/20000] Loss: 1.5086, average_loss: 1.5005
+baseline: TEST LOSS on 273th epoch: 2.8905475331920365
+baseline: Epoch [274], Iter [13710/20000] Loss: 1.6612, average_loss: 1.5763
+baseline: Epoch [274], Iter [13720/20000] Loss: 1.5460, average_loss: 1.5380
+baseline: Epoch [274], Iter [13730/20000] Loss: 1.3170, average_loss: 1.5465
+baseline: Epoch [274], Iter [13740/20000] Loss: 1.3291, average_loss: 1.5152
+baseline: Epoch [274], Iter [13750/20000] Loss: 1.5961, average_loss: 1.5298
+baseline: TEST LOSS on 274th epoch: 2.8327087703465685
+baseline: Epoch [275], Iter [13760/20000] Loss: 1.3596, average_loss: 1.4905
+baseline: Epoch [275], Iter [13770/20000] Loss: 1.5134, average_loss: 1.5088
+baseline: Epoch [275], Iter [13780/20000] Loss: 1.3907, average_loss: 1.4919
+baseline: Epoch [275], Iter [13790/20000] Loss: 1.8782, average_loss: 1.4934
+baseline: Epoch [275], Iter [13800/20000] Loss: 1.5393, average_loss: 1.4835
+baseline: TEST LOSS on 275th epoch: 2.8732676743002843
+baseline: Epoch [276], Iter [13810/20000] Loss: 1.5816, average_loss: 1.5012
+baseline: Epoch [276], Iter [13820/20000] Loss: 1.1650, average_loss: 1.4710
+baseline: Epoch [276], Iter [13830/20000] Loss: 1.5942, average_loss: 1.4702
+baseline: Epoch [276], Iter [13840/20000] Loss: 1.3693, average_loss: 1.4752
+baseline: Epoch [276], Iter [13850/20000] Loss: 1.6781, average_loss: 1.4734
+baseline: TEST LOSS on 276th epoch: 2.8927240386286277
+baseline: Epoch [277], Iter [13860/20000] Loss: 1.4365, average_loss: 1.4652
+baseline: Epoch [277], Iter [13870/20000] Loss: 1.4132, average_loss: 1.5279
+baseline: Epoch [277], Iter [13880/20000] Loss: 1.5321, average_loss: 1.5205
+baseline: Epoch [277], Iter [13890/20000] Loss: 1.6770, average_loss: 1.5130
+baseline: Epoch [277], Iter [13900/20000] Loss: 1.4419, average_loss: 1.4994
+baseline: TEST LOSS on 277th epoch: 2.863083820459675
+baseline: Epoch [278], Iter [13910/20000] Loss: 1.6603, average_loss: 1.4073
+baseline: Epoch [278], Iter [13920/20000] Loss: 1.3869, average_loss: 1.4607
+baseline: Epoch [278], Iter [13930/20000] Loss: 1.1937, average_loss: 1.4384
+baseline: Epoch [278], Iter [13940/20000] Loss: 1.3590, average_loss: 1.4545
+baseline: Epoch [278], Iter [13950/20000] Loss: 1.2657, average_loss: 1.4838
+baseline: TEST LOSS on 278th epoch: 2.8341858270336
+baseline: Epoch [279], Iter [13960/20000] Loss: 1.3546, average_loss: 1.4692
+baseline: Epoch [279], Iter [13970/20000] Loss: 1.5365, average_loss: 1.4868
+baseline: Epoch [279], Iter [13980/20000] Loss: 1.4929, average_loss: 1.5210
+baseline: Epoch [279], Iter [13990/20000] Loss: 1.3718, average_loss: 1.5170
+baseline: Epoch [279], Iter [14000/20000] Loss: 1.8088, average_loss: 1.5078
+baseline: TEST LOSS on 279th epoch: 2.9211321050238537
+baseline: Epoch [280], Iter [14010/20000] Loss: 1.5769, average_loss: 1.4548
+baseline: Epoch [280], Iter [14020/20000] Loss: 1.4451, average_loss: 1.4827
+baseline: Epoch [280], Iter [14030/20000] Loss: 1.3484, average_loss: 1.4597
+baseline: Epoch [280], Iter [14040/20000] Loss: 1.6277, average_loss: 1.4565
+baseline: Epoch [280], Iter [14050/20000] Loss: 2.1333, average_loss: 1.4734
+baseline: TEST LOSS on 280th epoch: 2.83565165289316
+baseline: Epoch [281], Iter [14060/20000] Loss: 1.3846, average_loss: 1.4548
+baseline: Epoch [281], Iter [14070/20000] Loss: 1.3332, average_loss: 1.4712
+baseline: Epoch [281], Iter [14080/20000] Loss: 1.6618, average_loss: 1.4792
+baseline: Epoch [281], Iter [14090/20000] Loss: 1.6046, average_loss: 1.4672
+baseline: Epoch [281], Iter [14100/20000] Loss: 1.6413, average_loss: 1.4828
+baseline: TEST LOSS on 281th epoch: 2.898701687562721
+baseline: Epoch [282], Iter [14110/20000] Loss: 1.5322, average_loss: 1.4237

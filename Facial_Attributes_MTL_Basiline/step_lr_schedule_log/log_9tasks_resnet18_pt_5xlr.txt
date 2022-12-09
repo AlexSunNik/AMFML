@@ -1,0 +1,3 @@
+Namespace(batchSize=32, filename='9tasks_resnet18_pt_5xlr', gpu='6', lr=0.005, lr_scheduler=None, model='resnet18', nepoch=10, pretrained=True, workers=2)
+True
+Initializing
